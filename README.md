@@ -12,7 +12,8 @@ Explore my cybersecurity projects as I document my journey from computer science
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Endpoint Detection and Response               | <a href="https://github.com/d4n392/d4n392/main/">Detection Lab</a>| 
+| Endpoint Detection and Response               | <a href="https://github.com/d4n392/EDR-Attack-and-Defense-Lab">EDR Attack and Defense Lab</a>| 
+| SQL Filtering using Linux                     | <a href="https://github.com/d4n392/Enhancing-Security-via-SQL">Enhancing Security via SQL</a>|
 | SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
@@ -56,7 +57,8 @@ Explore my cybersecurity projects as I document my journey from computer science
 </div>
 
 ## Projects
-- Detection Lab
+- <a href="https://github.com/d4n392/EDR-Attack-and-Defense-Lab">EDR Attack and Defense Lab</a>
+- <a href="https://github.com/d4n392/Enhancing-Security-via-SQL">Enhancing Security via SQL</a>
 - SOC Automation Project
 - EDR Windows Attack Lab
 
