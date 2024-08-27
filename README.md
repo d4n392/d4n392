@@ -8,7 +8,6 @@ I am a certified cybersecurity professional with a deep passion for technology a
 Explore my cybersecurity projects as I document my journey from computer science to pursuing a career as a Tier 1 SOC Analyst. Each project reflects my dedication to building the skills needed to excel in a Security Operations Center.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
@@ -22,7 +21,6 @@ Explore my cybersecurity projects as I document my journey from computer science
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
 ### Network
 <div>
