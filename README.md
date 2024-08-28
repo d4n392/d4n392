@@ -13,7 +13,8 @@ Explore my cybersecurity projects as I document my journey from computer science
 |-----------------------------------------------|----------------------------|
 | Endpoint Detection and Response               | <a href="https://github.com/d4n392/EDR-Attack-and-Defense-Lab">EDR Attack and Defense Lab</a>| 
 | SQL Filtering using Linux                     | <a href="https://github.com/d4n392/Enhancing-Security-via-SQL">Enhancing Security via SQL</a>|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
+| SHA-256 Checksum to Verify File Integrity     | <a href="https://github.com/d4n392/Data-Integrity-Using-SHA-256">Data Integrity Using SHA-256</a>|
+| SIEM Implementation and Log Analysis          | <a href="https://github.com/d4n392/Data-Integrity-Using-SHA-256">Data Integrity Using SHA-256</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
@@ -57,6 +58,7 @@ Explore my cybersecurity projects as I document my journey from computer science
 ## Projects
 - <a href="https://github.com/d4n392/EDR-Attack-and-Defense-Lab">EDR Attack and Defense Lab</a>
 - <a href="https://github.com/d4n392/Enhancing-Security-via-SQL">Enhancing Security via SQL</a>
+- <a href="https://github.com/d4n392/Data-Integrity-Using-SHA-256">Data Integrity Using SHA-256</a>
 - SOC Automation Project
 - EDR Windows Attack Lab
 
