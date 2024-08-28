@@ -15,8 +15,8 @@ Explore my cybersecurity projects as I document my journey from computer science
 | SQL Filtering using Linux                     | <a href="https://github.com/d4n392/Enhancing-Security-via-SQL">Enhancing Security via SQL</a>|
 | SHA-256 Checksum to Verify File Integrity     | <a href="https://github.com/d4n392/Data-Integrity-Using-SHA-256">Data Integrity Using SHA-256</a>|
 | Managing File Permissions in Linux            | <a href="https://github.com/d4n392/Managing-Authorization-in-Linux">Managing Authorization in Linux</a>|
-| SIEM Implementation and Log Analysis          | <a href="https://github.com/d4n392/Data-Integrity-Using-SHA-256">Data Integrity Using SHA-256</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
+| SIEM Implementation and Log Analysis          | SIEM Lab|
+| Network Traffic Monitoring and Attack Detection | Detection Lab|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
@@ -36,6 +36,7 @@ Explore my cybersecurity projects as I document my journey from computer science
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
+<a href="https://github.com/d4n392/EDR-Attack-and-Defense-Lab" target="_blank"> 
     <img src="https://img.shields.io/badge/-LimaCharlie-00A4EF?&style=for-the-badge&logo=LimaCharlie&logoColor=white" />
 </div>
     
