@@ -48,8 +48,12 @@ Explore my cybersecurity projects as I document my journey from computer science
 
 ## Certifications
 <div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-ISC2%20CC-00AC18?&style=for-the-badge&logo=ISC2&logoColor=white" />  
+<a href="https://www.credly.com/earner/earned/badge/55217136-cfed-42f7-bb11-229679bb8b5d" target="_blank">
+    <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" alt="Security+ Badge" />
+</a>
+<a href="https://www.credly.com/earner/earned/badge/65dbf142-f8a8-4a8d-b46f-cdaa624b38a5" target="_blank">
+    <img src="https://img.shields.io/badge/-ISC2%20CC-00AC18?&style=for-the-badge&logo=ISC2&logoColor=white" alt="ISC2 CC Badge" />
+</a>
 <img src="https://img.shields.io/badge/-Amazon%20AWS-FF9900?&style=for-the-badge&logo=Amazon%20AWS&logoColor=white" />
 <img src="https://img.shields.io/badge/-Google%20Cybersecurity-4285F4?&style=for-the-badge&logo=Google&logoColor=white" /> 
 
