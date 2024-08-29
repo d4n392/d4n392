@@ -15,7 +15,6 @@ Explore my cybersecurity projects as I document my journey from computer science
 | SQL Filtering using Linux                     | <a href="https://github.com/d4n392/Enhancing-Security-via-SQL">Enhancing Security via SQL</a>|
 | SHA-256 Checksum to Verify File Integrity     | <a href="https://github.com/d4n392/Data-Integrity-Using-SHA-256">Data Integrity Using SHA-256</a>|
 | Implementing Least Privilege in Linux         | <a href="https://github.com/d4n392/Managing-Authorization-in-Linux">Managing Authorization in Linux</a>|
-|                                             
 | SIEM Implementation and Log Analysis          | SIEM Lab|
 | Network Traffic Monitoring and Attack Detection | Detection Lab|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
