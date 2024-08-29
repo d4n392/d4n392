@@ -11,16 +11,16 @@ Explore my cybersecurity projects as I document my journey from computer science
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Endpoint Detection and Response               | <a href="https://github.com/d4n392/EDR-Attack-and-Defense-Lab">EDR Attack and Defense Lab</a>| 
+| Endpoint Detection and Response               | _In progress..._ <a href="https://github.com/d4n392/EDR-Attack-and-Defense-Lab">EDR Attack and Defense Lab</a>| 
 | SQL Filtering using Linux                     | <a href="https://github.com/d4n392/Enhancing-Security-via-SQL">Enhancing Security via SQL</a>|
 | SHA-256 Checksum to Verify File Integrity     | <a href="https://github.com/d4n392/Data-Integrity-Using-SHA-256">Data Integrity Using SHA-256</a>|
 | Implementing Least Privilege in Linux         | <a href="https://github.com/d4n392/Managing-Authorization-in-Linux">Managing Authorization in Linux</a>|
-| SIEM Implementation and Log Analysis          | _In progress..._SIEM Lab|
-| Network Traffic Monitoring and Attack Detection | _In progress..._Detection Lab|
-| Security Automation with Shuffle SOAR         | _In progress..._SOC Automation Lab|
-| Incident Response Planning and Execution      | _In progress..._SOC Automation Lab|
-| Case Management with TheHive                  | _In progress..._SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | _In progress..._SOC Automation Lab|
+| SIEM Implementation and Log Analysis          | _In progress..._ SIEM Lab|
+| Network Traffic Monitoring and Attack Detection | _In progress..._ Detection Lab|
+| Security Automation with Shuffle SOAR         | _In progress..._ SOC Automation Lab|
+| Incident Response Planning and Execution      | _In progress..._ SOC Automation Lab|
+| Case Management with TheHive                  | _In progress..._ SOC Automation Lab|
+| Scripting and Automation for Threat Mitigation | _In progress..._ SOC Automation Lab|
 
 ## Tools
 
@@ -66,6 +66,6 @@ Explore my cybersecurity projects as I document my journey from computer science
 - <a href="https://github.com/d4n392/Enhancing-Security-via-SQL">Enhancing Security via SQL</a>
 - <a href="https://github.com/d4n392/Data-Integrity-Using-SHA-256">Data Integrity Using SHA-256</a>
 - <a href="https://github.com/d4n392/Managing-Authorization-in-Linux">Managing Authorization in Linux</a>
-- SOC Automation Project
+- _In progress..._ SOC Automation Project
 - 
 
