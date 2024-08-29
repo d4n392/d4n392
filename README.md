@@ -15,12 +15,12 @@ Explore my cybersecurity projects as I document my journey from computer science
 | SQL Filtering using Linux                     | <a href="https://github.com/d4n392/Enhancing-Security-via-SQL">Enhancing Security via SQL</a>|
 | SHA-256 Checksum to Verify File Integrity     | <a href="https://github.com/d4n392/Data-Integrity-Using-SHA-256">Data Integrity Using SHA-256</a>|
 | Implementing Least Privilege in Linux         | <a href="https://github.com/d4n392/Managing-Authorization-in-Linux">Managing Authorization in Linux</a>|
-| SIEM Implementation and Log Analysis          | SIEM Lab|
-| Network Traffic Monitoring and Attack Detection | Detection Lab|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| SIEM Implementation and Log Analysis          | _In progress..._SIEM Lab|
+| Network Traffic Monitoring and Attack Detection | _In progress..._Detection Lab|
+| Security Automation with Shuffle SOAR         | _In progress..._SOC Automation Lab|
+| Incident Response Planning and Execution      | _In progress..._SOC Automation Lab|
+| Case Management with TheHive                  | _In progress..._SOC Automation Lab|
+| Scripting and Automation for Threat Mitigation | _In progress..._SOC Automation Lab|
 
 ## Tools
 
