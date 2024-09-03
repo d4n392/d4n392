@@ -11,7 +11,7 @@ Explore my cybersecurity projects as I document my journey from computer science
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Endpoint Detection and Response               | _In progress..._ <a href="https://github.com/d4n392/EDR-Attack-and-Defense-Lab">EDR Attack and Defense Lab</a>| 
+| Endpoint Detection and Response               | <a href="https://github.com/d4n392/EDR-Attack-and-Defense-Lab">EDR Attack and Defense Lab</a>| 
 | SQL Filtering using Linux                     | <a href="https://github.com/d4n392/Enhancing-Security-via-SQL">Enhancing Security via SQL</a>|
 | SHA-256 Checksum to Verify File Integrity     | <a href="https://github.com/d4n392/Data-Integrity-Using-SHA-256">Data Integrity Using SHA-256</a>|
 | Implementing Least Privilege in Linux         | <a href="https://github.com/d4n392/Managing-Authorization-in-Linux">Managing Authorization in Linux</a>|
@@ -55,7 +55,6 @@ Explore my cybersecurity projects as I document my journey from computer science
 <a href="https://www.credly.com/earner/earned/badge/65dbf142-f8a8-4a8d-b46f-cdaa624b38a5" target="_blank">
     <img src="https://img.shields.io/badge/-ISC2%20CC-00AC18?&style=for-the-badge&logo=ISC2&logoColor=white" alt="ISC2 CC Badge" />
 </a>
-<img src="https://img.shields.io/badge/-Amazon%20AWS-FF9900?&style=for-the-badge&logo=Amazon%20AWS&logoColor=white" />
 <img src="https://img.shields.io/badge/-Google%20Cybersecurity-4285F4?&style=for-the-badge&logo=Google&logoColor=white" /> 
 
 
