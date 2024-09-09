@@ -11,11 +11,13 @@ Explore my cybersecurity projects as I document my journey from computer science
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Endpoint Detection and Response               | <a href="https://github.com/d4n392/EDR-Attack-and-Defense-Lab">EDR Attack and Defense Lab</a>| 
+| Endpoint Detection and Response               | <a href="https://github.com/d4n392/EDR-Attack-and-Defense-Lab">EDR Attack and Defense Lab</a>|
+| SIEM Implementation and Log Analysis          | _In progress_ <a href="https://github.com/d4n392/Azure-SIEM-Lab">Azure SIEM Lab</a>|
+| Microsoft Defender EDR                        | _In progress_ <a href="https://github.com/d4n392/Microsoft-Defender-for-Endpoint">Microsoft Defender for Endpoint</a>|
 | SQL Filtering using Linux                     | <a href="https://github.com/d4n392/Enhancing-Security-via-SQL">Enhancing Security via SQL</a>|
 | SHA-256 Checksum to Verify File Integrity     | <a href="https://github.com/d4n392/Data-Integrity-Using-SHA-256">Data Integrity Using SHA-256</a>|
 | Implementing Least Privilege in Linux         | <a href="https://github.com/d4n392/Managing-Authorization-in-Linux">Managing Authorization in Linux</a>|
-| SIEM Implementation and Log Analysis          | _In progress..._ SIEM Lab|
+
 
 
 ## Tools
@@ -61,5 +63,5 @@ Explore my cybersecurity projects as I document my journey from computer science
 - <a href="https://github.com/d4n392/Enhancing-Security-via-SQL">Enhancing Security via SQL</a>
 - <a href="https://github.com/d4n392/Data-Integrity-Using-SHA-256">Data Integrity Using SHA-256</a>
 - <a href="https://github.com/d4n392/Managing-Authorization-in-Linux">Managing Authorization in Linux</a>
-- _In progress..._ SIEM Lab 
-
+- _In progress..._ Aure SIEM Lab 
+- _In progress..._ Microsoft Defender for Endpoint
