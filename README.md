@@ -17,7 +17,7 @@ Explore my cybersecurity projects as I document my journey from computer science
 | SQL Filtering using Linux                     | <a href="https://github.com/d4n392/Enhancing-Security-via-SQL">Enhancing Security via SQL</a>|
 | SHA-256 Checksum to Verify File Integrity     | <a href="https://github.com/d4n392/Data-Integrity-Using-SHA-256">Data Integrity Using SHA-256</a>|
 | Implementing Least Privilege in Linux         | <a href="https://github.com/d4n392/Managing-Authorization-in-Linux">Managing Authorization in Linux</a>|
-| Endpoint Detection and Response with Fortinet | <a href="https://github.com/d4n392/FortiEDR-Lab">FortiEDR Lab</a>|
+| Endpoint Detection and Response with Fortinet | _In progress_ <a href="https://github.com/d4n392/FortiEDR-Lab">FortiEDR Lab</a>|
 
 
 
