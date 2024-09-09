@@ -16,11 +16,7 @@ Explore my cybersecurity projects as I document my journey from computer science
 | SHA-256 Checksum to Verify File Integrity     | <a href="https://github.com/d4n392/Data-Integrity-Using-SHA-256">Data Integrity Using SHA-256</a>|
 | Implementing Least Privilege in Linux         | <a href="https://github.com/d4n392/Managing-Authorization-in-Linux">Managing Authorization in Linux</a>|
 | SIEM Implementation and Log Analysis          | _In progress..._ SIEM Lab|
-| Network Traffic Monitoring and Attack Detection | _In progress..._ Detection Lab|
-| Security Automation with Shuffle SOAR         | _In progress..._ SOC Automation Lab|
-| Incident Response Planning and Execution      | _In progress..._ SOC Automation Lab|
-| Case Management with TheHive                  | _In progress..._ SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | _In progress..._ SOC Automation Lab|
+
 
 ## Tools
 
@@ -29,13 +25,11 @@ Explore my cybersecurity projects as I document my journey from computer science
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-tcpdump-6B8E23?&style=for-the-badge&logo=tcpdump&logoColor=white" />
     <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
 </div>
 
 ### Endpoint
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
 <a href="https://github.com/d4n392/EDR-Attack-and-Defense-Lab" target="_blank"> 
     <img src="https://img.shields.io/badge/-LimaCharlie-00A4EF?&style=for-the-badge&logo=LimaCharlie&logoColor=white" />
 </div>
@@ -44,7 +38,6 @@ Explore my cybersecurity projects as I document my journey from computer science
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
 </div>
 
 ## Certifications
@@ -65,6 +58,5 @@ Explore my cybersecurity projects as I document my journey from computer science
 - <a href="https://github.com/d4n392/Enhancing-Security-via-SQL">Enhancing Security via SQL</a>
 - <a href="https://github.com/d4n392/Data-Integrity-Using-SHA-256">Data Integrity Using SHA-256</a>
 - <a href="https://github.com/d4n392/Managing-Authorization-in-Linux">Managing Authorization in Linux</a>
-- _In progress..._ SOC Automation Project
-- 
+- _In progress..._ SIEM Lab 
 
