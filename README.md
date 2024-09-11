@@ -12,7 +12,7 @@ Explore my cybersecurity projects as I document my journey from computer science
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Endpoint Detection and Response with LimaCharlie        | <a href="https://github.com/d4n392/EDR-Attack-and-Defense-Lab">EDR Attack and Defense Lab</a>|
-| SIEM Implementation and Log Analysis          | _In progress_ <a href="https://github.com/d4n392/Azure-SIEM-Lab">Azure SIEM Lab</a>|
+| SIEM Implementation and Log Analysis          | <a href="https://github.com/d4n392/Azure-SIEM-Lab">Azure SIEM Lab</a>|
 | Microsoft Defender EDR                        | _In progress_ <a href="https://github.com/d4n392/Microsoft-Defender-for-Endpoint-Lab">Microsoft Defender for Endpoint Lab</a>|
 | SQL Filtering using Linux                     | <a href="https://github.com/d4n392/Enhancing-Security-via-SQL">Enhancing Security via SQL</a>|
 | SHA-256 Checksum to Verify File Integrity     | <a href="https://github.com/d4n392/Data-Integrity-Using-SHA-256">Data Integrity Using SHA-256</a>|
@@ -64,6 +64,6 @@ Explore my cybersecurity projects as I document my journey from computer science
 - <a href="https://github.com/d4n392/Enhancing-Security-via-SQL">Enhancing Security via SQL</a>
 - <a href="https://github.com/d4n392/Data-Integrity-Using-SHA-256">Data Integrity Using SHA-256</a>
 - <a href="https://github.com/d4n392/Managing-Authorization-in-Linux">Managing Authorization in Linux</a>
-- _In progress..._ Aure SIEM Lab 
+- <a href="https://github.com/d4n392/Aure-SIEM-Lab">Aure SIEM Lab </a>
 - _In progress..._ Microsoft Defender for Endpoint Lab
 - _In progress..._ FortiEDR Lab
