@@ -14,7 +14,7 @@ Explore my cybersecurity projects as I document my journey from computer science
 | Endpoint Detection and Response with LimaCharlie        | <a href="https://github.com/d4n392/EDR-Attack-and-Defense-Lab">EDR Attack and Defense Lab</a>|
 | SIEM Implementation and Log Analysis          | <a href="https://github.com/d4n392/Azure-SIEM-Lab">Azure SIEM Lab</a>|
 | Using conditional statements in Python to modify ACLs   | <a href="https://github.com/d4n392/Modifying-ACLs-Using-Python">Modifying ACLs Using Python</a>|
-| Splunk Queries with SPL  | <a href="https://github.com/d4n392/Query-Splunk-via-SPL">Querying Splunk via SPL</a>|
+| Splunk Queries with SPL  | <a href="https://github.com/d4n392/Querying-Splunk-via-SPL">Querying Splunk via SPL</a>|
 | SHA-256 Checksum to Verify File Integrity     | <a href="https://github.com/d4n392/Data-Integrity-Using-SHA-256">Data Integrity Using SHA-256</a>|
 | SQL Filtering using Linux                     | <a href="https://github.com/d4n392/Enhancing-Security-via-SQL">Enhancing Security via SQL</a>|
 | Implementing Least Privilege in Linux         | <a href="https://github.com/d4n392/Managing-Authorization-in-Linux">Managing Authorization in Linux</a>|
@@ -44,7 +44,7 @@ Explore my cybersecurity projects as I document my journey from computer science
 <a href="https://github.com/d4n392/Azure-SIEM-Lab" target="_blank"> 
     <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
 </a>
-<a href="https://github.com/d4n392/Query-Splunk-Using-SPL" target="_blank"> 
+<a href="https://github.com/d4n392/Querying-Splunk-via-SPL" target="_blank"> 
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
 </a>
     <img src="https://img.shields.io/badge/-Google_Chronicle-000000?&style=for-the-badge&logo=google-chrome&logoColor=white" />
@@ -67,7 +67,7 @@ Explore my cybersecurity projects as I document my journey from computer science
 - <a href="https://github.com/d4n392/EDR-Attack-and-Defense-Lab">EDR Attack and Defense Lab</a>
 - <a href="https://github.com/d4n392/Aure-SIEM-Lab">Aure SIEM Lab </a>
 - <a href="https://github.com/d4n392/Modifying-ACLs-Using-Python">Modifying ACLs Using Python</a>
-- <a href="https://github.com/d4n392/Query-Splunk-via-SPL">Querying Splunk Using SPL</a>
+- <a href="https://github.com/d4n392/Querying-Splunk-via-SPL">Querying Splunk via SPL</a>
 - <a href="https://github.com/d4n392/Data-Integrity-Using-SHA-256">Data Integrity Using SHA-256</a>
 - <a href="https://github.com/d4n392/Enhancing-Security-via-SQL">Enhancing Security via SQL</a>
 - <a href="https://github.com/d4n392/Managing-Authorization-in-Linux">Managing Authorization in Linux</a>
