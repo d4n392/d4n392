@@ -17,7 +17,7 @@ Explore my cybersecurity projects as I document my journey from computer science
 | Splunk Queries with SPL  | <a href="https://github.com/d4n392/Querying-Splunk-via-SPL">Querying Splunk via SPL</a>|
 | SHA-256 Checksum to Verify File Integrity     | <a href="https://github.com/d4n392/Data-Integrity-Using-SHA-256">Data Integrity Using SHA-256</a>|
 | Investigating Security Incidents via Chronicle  | <a href="https://github.com/d4n392/Google-Chronicle-Investigation">Google Chronicle Investigation</a>|
-| SQL Filtering using Linux                     | <a href="https://github.com/d4n392/Enhancing-Security-via-SQL">Enhancing Security via SQL</a>|
+| SQL Filtering using Linux CLI                    | <a href="https://github.com/d4n392/Enhancing-Security-via-SQL">Enhancing Security via SQL</a>|
 | Implementing Least Privilege in Linux         | <a href="https://github.com/d4n392/Managing-Authorization-in-Linux">Managing Authorization in Linux</a>|
 | Endpoint Detection and Response with Fortinet | _In progress_ <a href="https://github.com/d4n392/FortiEDR-Lab">FortiEDR Lab</a>|
 
