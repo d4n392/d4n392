@@ -75,4 +75,4 @@ Explore my cybersecurity projects as I document my journey from computer science
 - _In progress_ <a href="https://github.com/d4n392/Google-Chronicle-Investigation">Google Chronicle Investigation</a>
 - <a href="https://github.com/d4n392/Enhancing-Security-via-SQL">Enhancing Security via SQL</a>
 - <a href="https://github.com/d4n392/Managing-Authorization-in-Linux">Managing Authorization in Linux</a>
-- _In progress..._ FortiEDR Lab
+- _In progress..._ <a href="https://github.com/d4n392/FortiEDR-Lab">FortiEDR Lab</a>
