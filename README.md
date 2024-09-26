@@ -5,7 +5,7 @@ I am a certified cybersecurity professional with a deep passion for technology a
 
 ## Objective
 
-Explore my cybersecurity projects as I document my journey from computer science to pursuing a career as a Tier 1 SOC Analyst. Each project reflects my dedication to building the skills needed to excel in a Security Operations Center.
+Explore my cybersecurity projects as I document my very own tech journey.
 
 ## Skills
 
