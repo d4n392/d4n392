@@ -11,15 +11,16 @@ Explore my cybersecurity projects as I document my very own tech journey.
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
+| SQL Filtering using Linux CLI                    | <a href="https://github.com/d4n392/Enhancing-Security-via-SQL">Enhancing Security via SQL</a>|
 | Endpoint Detection and Response with LimaCharlie    | <a href="https://github.com/d4n392/EDR-Attack-and-Defense-Lab">EDR Attack and Defense Lab</a>|
 | SIEM Implementation and Log Analysis          | <a href="https://github.com/d4n392/Azure-SIEM-Lab">Azure SIEM Lab</a>|
 | Using conditional statements in Python to modify ACLs   | _In progress_ <a href="https://github.com/d4n392/Modifying-ACLs-Using-Python">Modifying ACLs Using Python</a>|
 | Splunk Queries with SPL  | _In progress_ <a href="https://github.com/d4n392/Querying-Splunk-via-SPL">Querying Splunk via SPL</a>|
 | SHA-256 Checksum to Verify File Integrity     | <a href="https://github.com/d4n392/Data-Integrity-Using-SHA-256">Data Integrity Using SHA-256</a>|
 | Investigating Security Incidents via Chronicle  | _In progress_ <a href="https://github.com/d4n392/Google-Chronicle-Investigation">Google Chronicle Investigation</a>|
-| SQL Filtering using Linux CLI                    | <a href="https://github.com/d4n392/Enhancing-Security-via-SQL">Enhancing Security via SQL</a>|
 | Implementing Least Privilege in Linux         | <a href="https://github.com/d4n392/Managing-Authorization-in-Linux">Managing Authorization in Linux</a>|
 | Endpoint Detection and Response with Fortinet | _In progress_ <a href="https://github.com/d4n392/FortiEDR-Lab">FortiEDR Lab</a>|
+| Utilizing tcpdump, Wireshark, and Suricata to analyze a network     |_In progress_ <a href="https://github.com/d4n392/Network-Analysis-Packet-Sniffing-Lab">Network Analysis Packet Sniffing Lab</a>|
 
 
 
@@ -27,9 +28,11 @@ Explore my cybersecurity projects as I document my very own tech journey.
 
 ### Network
 <div>
+<a href="https://github.com/d4n392/Network-Analysis-Packet-Sniffing-Lab">
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-tcpdump-6B8E23?&style=for-the-badge&logo=tcpdump&logoColor=white" />
     <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
+</a>
 </div>
 
 ### Endpoint
@@ -69,12 +72,13 @@ Explore my cybersecurity projects as I document my very own tech journey.
 </div>
 
 ## Projects
+- <a href="https://github.com/d4n392/Enhancing-Security-via-SQL">Enhancing Security via SQL</a>
 - <a href="https://github.com/d4n392/EDR-Attack-and-Defense-Lab">EDR Attack and Defense Lab</a>
 - <a href="https://github.com/d4n392/Aure-SIEM-Lab">Aure SIEM Lab </a>
 - _In progress_ <a href="https://github.com/d4n392/Modifying-ACLs-Using-Python">Modifying ACLs Using Python</a>
 - _In progress_ <a href="https://github.com/d4n392/Querying-Splunk-via-SPL">Querying Splunk via SPL</a>
 - <a href="https://github.com/d4n392/Data-Integrity-Using-SHA-256">Data Integrity Using SHA-256</a>
 - _In progress_ <a href="https://github.com/d4n392/Google-Chronicle-Investigation">Google Chronicle Investigation</a>
-- <a href="https://github.com/d4n392/Enhancing-Security-via-SQL">Enhancing Security via SQL</a>
 - <a href="https://github.com/d4n392/Managing-Authorization-in-Linux">Managing Authorization in Linux</a>
 - _In progress..._ <a href="https://github.com/d4n392/FortiEDR-Lab">FortiEDR Lab</a>
+- _In progress..._ <a href="https://github.com/d4n392/Network-Analysis-Packet-Sniffing-Lab">Network Analysis Packet Sniffing Lab</a>
