@@ -37,7 +37,9 @@ Explore my cybersecurity projects as I document my very own tech journey.
 <a href="https://github.com/d4n392/EDR-Attack-and-Defense-Lab" target="_blank"> 
     <img src="https://img.shields.io/badge/-LimaCharlie-00A4EF?&style=for-the-badge&logo=LimaCharlie&logoColor=white" /> 
 </a>
+<a href="https://github.com/d4n392/FortiEDR-Lab">    
     <img src="https://img.shields.io/badge/-FortiEDR-000000?&style=for-the-badge&logo=fortinet&logoColor=white" />
+</a>
 </div>
     
 ### SIEM
@@ -61,9 +63,9 @@ Explore my cybersecurity projects as I document my very own tech journey.
 <a href="https://www.credly.com/earner/earned/badge/65dbf142-f8a8-4a8d-b46f-cdaa624b38a5" target="_blank">
     <img src="https://img.shields.io/badge/-ISC2%20CC-00AC18?&style=for-the-badge&logo=ISC2&logoColor=white" alt="ISC2 CC Badge" />
 </a>
-<img src="https://img.shields.io/badge/-Google%20Cybersecurity-4285F4?&style=for-the-badge&logo=Google&logoColor=white" /> 
-
-
+<a href="https://www.credly.com/badges/6d945be8-88ea-4334-b338-67ce8990a67c" target="_blank">
+    <img src="https://img.shields.io/badge/-Google%20Cybersecurity-4285F4?&style=for-the-badge&logo=Google&logoColor=white" /> 
+</a>
 </div>
 
 ## Projects
