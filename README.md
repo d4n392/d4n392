@@ -26,6 +26,15 @@ Explore my cybersecurity projects as I document my very own tech journey.
 
 ## Tools
 
+### Programming
+<div>
+    
+<img src="https://img.shields.io/badge/-SQL-8B0000?&style=for-the-badge&logo=SQL&logoColor=white" />
+<img src="https://img.shields.io/badge/-Python-800080?&style=for-the-badge&logo=Python&logoColor=white" />
+
+</a>
+
+    
 ### Network
 <div>
 <a href="https://github.com/d4n392/Network-Analysis-Packet-Sniffing-Lab">
