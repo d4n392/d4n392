@@ -12,9 +12,9 @@ Explore my cybersecurity projects as I document my very own tech journey.
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | SQL Filtering using Linux CLI                    | <a href="https://github.com/d4n392/Enhancing-Security-via-SQL">Enhancing Security via SQL</a>|
+| Using conditional statements in Python to modify ACLs   | <a href="https://github.com/d4n392/Modifying-ACLs-Using-Python">Modifying ACLs Using Python</a>|
 | Endpoint Detection and Response with LimaCharlie    | <a href="https://github.com/d4n392/EDR-Attack-and-Defense-Lab">EDR Attack and Defense Lab</a>|
 | SIEM Implementation and Log Analysis          | <a href="https://github.com/d4n392/Azure-SIEM-Lab">Azure SIEM Lab</a>|
-| Using conditional statements in Python to modify ACLs   | _In progress_ <a href="https://github.com/d4n392/Modifying-ACLs-Using-Python">Modifying ACLs Using Python</a>|
 | Splunk Queries with SPL  | _In progress_ <a href="https://github.com/d4n392/Querying-Splunk-via-SPL">Querying Splunk via SPL</a>|
 | SHA-256 Checksum to Verify File Integrity     | <a href="https://github.com/d4n392/Data-Integrity-Using-SHA-256">Data Integrity Using SHA-256</a>|
 | Investigating Security Incidents via Chronicle  | _In progress_ <a href="https://github.com/d4n392/Google-Chronicle-Investigation">Google Chronicle Investigation</a>|
@@ -73,9 +73,9 @@ Explore my cybersecurity projects as I document my very own tech journey.
 
 ## Projects
 - <a href="https://github.com/d4n392/Enhancing-Security-via-SQL">Enhancing Security via SQL</a>
+- <a href="https://github.com/d4n392/Modifying-ACLs-Using-Python">Modifying ACLs Using Python</a>
 - <a href="https://github.com/d4n392/EDR-Attack-and-Defense-Lab">EDR Attack and Defense Lab</a>
 - <a href="https://github.com/d4n392/Aure-SIEM-Lab">Aure SIEM Lab </a>
-- _In progress_ <a href="https://github.com/d4n392/Modifying-ACLs-Using-Python">Modifying ACLs Using Python</a>
 - _In progress_ <a href="https://github.com/d4n392/Querying-Splunk-via-SPL">Querying Splunk via SPL</a>
 - <a href="https://github.com/d4n392/Data-Integrity-Using-SHA-256">Data Integrity Using SHA-256</a>
 - _In progress_ <a href="https://github.com/d4n392/Google-Chronicle-Investigation">Google Chronicle Investigation</a>
