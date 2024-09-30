@@ -28,10 +28,14 @@ Explore my cybersecurity projects as I document my very own tech journey.
 
 ### Programming
 <div>
-    
-<img src="https://img.shields.io/badge/-SQL-8B0000?&style=for-the-badge&logo=SQL&logoColor=white" />
-<img src="https://img.shields.io/badge/-Python-800080?&style=for-the-badge&logo=Python&logoColor=white" />
-
+<a href="https://github.com/d4n392/Enhancing-Security-via-SQL">    
+    <img src="https://img.shields.io/badge/-SQL-8B0000?&style=for-the-badge&logo=SQL&logoColor=white" />
+</a>    
+<a href="https://github.com/d4n392/Modifying-ACLs-Using-Python">    
+    <img src="https://img.shields.io/badge/-Python-800080?&style=for-the-badge&logo=Python&logoColor=white" />
+</a>    
+<a href="https://github.com/d4n392/Managing-Authorization-in-Linux">    
+    <img src="https://img.shields.io/badge/-Linux-FCC624?&style=for-the-badge&logo=Linux&logoColor=black" />
 </a>
 
     
