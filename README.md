@@ -11,6 +11,7 @@ Explore my cybersecurity projects as I document my very own tech journey.
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
+| Exceptional Customer Service through ticket creation and resolution on Zendesk      | _In progress_ <a href="https://github.com/d4n392/Zendesk-Tech-Support-Lab">Zendesk Tech Support Lab</a>|
 | SQL Filtering using Linux CLI                    | <a href="https://github.com/d4n392/Enhancing-Security-via-SQL">Enhancing Security via SQL</a>|
 | Using conditional statements in Python to modify ACLs   | <a href="https://github.com/d4n392/Modifying-ACLs-Using-Python">Modifying ACLs Using Python</a>|
 | Endpoint Detection and Response with LimaCharlie    | <a href="https://github.com/d4n392/EDR-Attack-and-Defense-Lab">EDR Attack and Defense Lab</a>|
@@ -38,6 +39,12 @@ Explore my cybersecurity projects as I document my very own tech journey.
     <img src="https://img.shields.io/badge/-Linux-FCC624?&style=for-the-badge&logo=Linux&logoColor=black" />
 </a>
 
+### Ticketing 
+<div>
+<a href="https://github.com/d4n392/Zendesk-Tech-Support-Lab">
+    <img src="https://img.shields.io/badge/-Zendesk-006AFF?&style=for-the-badge&logo=Zendesk&logoColor=white" />
+</a>
+</div>
     
 ### Network
 <div>
@@ -85,6 +92,7 @@ Explore my cybersecurity projects as I document my very own tech journey.
 </div>
 
 ## Projects
+- _In progress_ <a href="https://github.com/d4n392/Zendesk-Tech-Support-Lab">Zendesk Tech Support Lab</a>
 - <a href="https://github.com/d4n392/Enhancing-Security-via-SQL">Enhancing Security via SQL</a>
 - <a href="https://github.com/d4n392/Modifying-ACLs-Using-Python">Modifying ACLs Using Python</a>
 - <a href="https://github.com/d4n392/EDR-Attack-and-Defense-Lab">EDR Attack and Defense Lab</a>
