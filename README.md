@@ -16,8 +16,8 @@ Explore my cybersecurity projects as I document my very own tech journey.
 | Exceptional Customer Service through ticket creation and resolution on Zendesk      | <a href="https://github.com/d4n392/Zendesk-Tech-Support-Lab" target="_blank"> Zendesk Tech Support Lab</a>|
 | SQL Filtering using Linux CLI                    | <a href="https://github.com/d4n392/Enhancing-Security-via-SQL" target="_blank"> Enhancing Security via SQL</a>|
 | Using conditional statements in Python to modify ACLs   | <a href="https://github.com/d4n392/Modifying-ACLs-Using-Python" target="_blank"> Modifying ACLs Using Python</a>|
-| Implementing Least Privilege in Linux         | <a href="https://github.com/d4n392/Managing-Authorization-in-Linux" target="_blank"> Managing Authorization in Linux</a>|
-| Splunk Queries with SPL  | _In progress_ <a href="https://github.com/d4n392/Querying-Splunk-via-SPL" target="_blank"> Querying Splunk via SPL</a>|
+| Implementing Principle of Least Privilege in Linux         | <a href="https://github.com/d4n392/Managing-Authorization-in-Linux" target="_blank"> Managing Authorization in Linux</a>|
+| Splunk Queries with SPL discovering a possible Brute Force attack | <a href="https://github.com/d4n392/Querying-Splunk-via-SPL" target="_blank"> Querying Splunk via SPL</a>|
 | SHA-256 Checksum to Verify File Integrity     | <a href="https://github.com/d4n392/Data-Integrity-Using-SHA-256" target="_blank"> Data Integrity Using SHA-256</a>|
 | Investigating Security Incidents via Chronicle  | _In progress_ <a href="https://github.com/d4n392/Google-Chronicle-Investigation" target="_blank"> Google Chronicle Investigation</a>|
 | Endpoint Detection and Response with Fortinet | _In progress_ <a href="https://github.com/d4n392/FortiEDR-Lab" target="_blank"> FortiEDR Lab</a>|
@@ -98,7 +98,7 @@ Explore my cybersecurity projects as I document my very own tech journey.
 - <a href="https://github.com/d4n392/Enhancing-Security-via-SQL" target="_blank"> Enhancing Security via SQL</a>
 - <a href="https://github.com/d4n392/Modifying-ACLs-Using-Python" target="_blank"> Modifying ACLs Using Python</a>
 - <a href="https://github.com/d4n392/Managing-Authorization-in-Linux" target="_blank"> Managing Authorization in Linux</a>
-- _In progress_ <a href="https://github.com/d4n392/Querying-Splunk-via-SPL" target="_blank"> Querying Splunk via SPL</a>
+- <a href="https://github.com/d4n392/Querying-Splunk-via-SPL" target="_blank"> Querying Splunk via SPL</a>
 - <a href="https://github.com/d4n392/Data-Integrity-Using-SHA-256" target="_blank"> Data Integrity Using SHA-256</a>
 - _In progress_ <a href="https://github.com/d4n392/Google-Chronicle-Investigation" target="_blank"> Google Chronicle Investigation</a>
 - _In progress..._ <a href="https://github.com/d4n392/FortiEDR-Lab" target="_blank"> FortiEDR Lab</a>
