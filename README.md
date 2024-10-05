@@ -11,11 +11,11 @@ Explore my cybersecurity projects as I document my very own tech journey.
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Exceptional Customer Service through ticket creation and resolution on Zendesk      | _In progress_ <a href="https://github.com/d4n392/Zendesk-Tech-Support-Lab" target="_blank"> Zendesk Tech Support Lab</a>|
-| SQL Filtering using Linux CLI                    | <a href="https://github.com/d4n392/Enhancing-Security-via-SQL" target="_blank"> Enhancing Security via SQL</a>|
-| Using conditional statements in Python to modify ACLs   | <a href="https://github.com/d4n392/Modifying-ACLs-Using-Python" target="_blank"> Modifying ACLs Using Python</a>|
 | Endpoint Detection and Response with LimaCharlie    | <a href="https://github.com/d4n392/EDR-Attack-and-Defense-Lab" target="_blank"> EDR Attack and Defense Lab</a>|
 | SIEM Implementation and Log Analysis          | <a href="https://github.com/d4n392/Azure-SIEM-Lab" target="_blank"> Azure SIEM Lab</a>|
+| Exceptional Customer Service through ticket creation and resolution on Zendesk      | <a href="https://github.com/d4n392/Zendesk-Tech-Support-Lab" target="_blank"> Zendesk Tech Support Lab</a>|
+| SQL Filtering using Linux CLI                    | <a href="https://github.com/d4n392/Enhancing-Security-via-SQL" target="_blank"> Enhancing Security via SQL</a>|
+| Using conditional statements in Python to modify ACLs   | <a href="https://github.com/d4n392/Modifying-ACLs-Using-Python" target="_blank"> Modifying ACLs Using Python</a>|
 | Implementing Least Privilege in Linux         | <a href="https://github.com/d4n392/Managing-Authorization-in-Linux" target="_blank"> Managing Authorization in Linux</a>|
 | Splunk Queries with SPL  | _In progress_ <a href="https://github.com/d4n392/Querying-Splunk-via-SPL" target="_blank"> Querying Splunk via SPL</a>|
 | SHA-256 Checksum to Verify File Integrity     | <a href="https://github.com/d4n392/Data-Integrity-Using-SHA-256" target="_blank"> Data Integrity Using SHA-256</a>|
@@ -92,11 +92,11 @@ Explore my cybersecurity projects as I document my very own tech journey.
 </div>
 
 ## Projects
-- _In progress_ <a href="https://github.com/d4n392/Zendesk-Tech-Support-Lab" target="_blank"> Zendesk Tech Support Lab</a>
-- <a href="https://github.com/d4n392/Enhancing-Security-via-SQL" target="_blank"> Enhancing Security via SQL</a>
-- <a href="https://github.com/d4n392/Modifying-ACLs-Using-Python" target="_blank"> Modifying ACLs Using Python</a>
 - <a href="https://github.com/d4n392/EDR-Attack-and-Defense-Lab" target="_blank"> EDR Attack and Defense Lab</a>
 - <a href="https://github.com/d4n392/Azure-SIEM-Lab" target="_blank"> Azure SIEM Lab </a>
+- <a href="https://github.com/d4n392/Zendesk-Tech-Support-Lab" target="_blank"> Zendesk Tech Support Lab</a>
+- <a href="https://github.com/d4n392/Enhancing-Security-via-SQL" target="_blank"> Enhancing Security via SQL</a>
+- <a href="https://github.com/d4n392/Modifying-ACLs-Using-Python" target="_blank"> Modifying ACLs Using Python</a>
 - <a href="https://github.com/d4n392/Managing-Authorization-in-Linux" target="_blank"> Managing Authorization in Linux</a>
 - _In progress_ <a href="https://github.com/d4n392/Querying-Splunk-via-SPL" target="_blank"> Querying Splunk via SPL</a>
 - <a href="https://github.com/d4n392/Data-Integrity-Using-SHA-256" target="_blank"> Data Integrity Using SHA-256</a>
