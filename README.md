@@ -1,7 +1,7 @@
 # Hello, I'm Dane
 <a href="https://linkedin.com/in/dane-reilly"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am a certified cybersecurity professional with a knack for technology and solving problems. An enjoyment of continuous learning in such a vast field, has led me to discover a hidden passion for Digital Forensics and Incident Response. I specialize in using advanced tactics to identify, prioritize and mitigate potential security risks in business infrastructure.
+I am a certified cybersecurity professional with a knack for technology and solving problems. An enjoyment of continuous learning in such a vast field, has led me to discover a hidden passion for DFIR and Threat Hunting. I specialize in using advanced tactics to identify, prioritize and mitigate potential security risks in business infrastructure.
 
 ## Objective
 
