@@ -12,14 +12,14 @@ Explore my cybersecurity projects as I document my very own tech journey.
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Endpoint Detection and Response with LimaCharlie    | <a href="https://github.com/d4n392/EDR-Attack-and-Defense-Lab" target="_blank"> EDR Attack and Defense Lab</a>|
-| SIEM Implementation and Log Analysis          | <a href="https://github.com/d4n392/Azure-SIEM-Lab" target="_blank"> Azure SIEM Lab</a>|
-| Exceptional Customer Service through ticket creation and resolution on Zendesk      | <a href="https://github.com/d4n392/Zendesk-Tech-Support-Lab" target="_blank"> Zendesk Tech Support Lab</a>|
-| SQL Filtering using Linux CLI                    | <a href="https://github.com/d4n392/Enhancing-Security-via-SQL" target="_blank"> Enhancing Security via SQL</a>|
+| SIEM implementation and Log analysis          | <a href="https://github.com/d4n392/Azure-SIEM-Lab" target="_blank"> Azure SIEM Lab</a>|
+| Exceptional customer service through ticket creation and resolution on Zendesk      | <a href="https://github.com/d4n392/Zendesk-Tech-Support-Lab" target="_blank"> Zendesk Tech Support Lab</a>|
+| SQL filtering using Linux CLI                    | <a href="https://github.com/d4n392/Enhancing-Security-via-SQL" target="_blank"> Enhancing Security via SQL</a>|
 | Using conditional statements in Python to modify ACLs   | <a href="https://github.com/d4n392/Modifying-ACLs-Using-Python" target="_blank"> Modifying ACLs Using Python</a>|
 | Implementing Principle of Least Privilege in Linux         | <a href="https://github.com/d4n392/Managing-Authorization-in-Linux" target="_blank"> Managing Authorization in Linux</a>|
-| Splunk Queries with SPL discovering a possible Brute Force attack | <a href="https://github.com/d4n392/Querying-Splunk-via-SPL" target="_blank"> Querying Splunk via SPL</a>|
-| SHA-256 Checksum to Verify File Integrity     | <a href="https://github.com/d4n392/Data-Integrity-Using-SHA-256" target="_blank"> Data Integrity Using SHA-256</a>|
-| Investigating Security Incidents via Chronicle  | _In progress_ <a href="https://github.com/d4n392/Google-Chronicle-Investigation" target="_blank"> Google Chronicle Investigation</a>|
+| Splunk queries with SPL discovering a possible Brute Force attack | <a href="https://github.com/d4n392/Querying-Splunk-via-SPL" target="_blank"> Querying Splunk via SPL</a>|
+| SHA-256 checksum to verify file integrity     | <a href="https://github.com/d4n392/Data-Integrity-Using-SHA-256" target="_blank"> Data Integrity Using SHA-256</a>|
+| Investigating a phishing email via Chronicle  | _In progress_ <a href="https://github.com/d4n392/Google-Chronicle-Investigation" target="_blank"> Google Chronicle Investigation</a>|
 | Endpoint Detection and Response with Fortinet | _In progress_ <a href="https://github.com/d4n392/FortiEDR-Lab" target="_blank"> FortiEDR Lab</a>|
 | Utilizing tcpdump, Wireshark, and Suricata to analyze a network     |_In progress_ <a href="https://github.com/d4n392/Network-Analysis-Packet-Sniffing-Lab" target="_blank"> Network Analysis Packet Sniffing Lab</a>|
 
