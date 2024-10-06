@@ -20,7 +20,7 @@ Explore my cybersecurity projects as I document my unique tech journey.
 | Implementing Principle of Least Privilege in Linux         | <a href="https://github.com/d4n392/Managing-Authorization-in-Linux" target="_blank"> Managing Authorization in Linux</a>|
 | Splunk queries with SPL discovering a possible Brute Force attack | <a href="https://github.com/d4n392/Querying-Splunk-via-SPL" target="_blank"> Querying Splunk via SPL</a>|
 | SHA-256 checksum to verify file integrity     | <a href="https://github.com/d4n392/Data-Integrity-Using-SHA-256" target="_blank"> Data Integrity Using SHA-256</a>|
-| Utilizing Wireshark, tcpdump, and Suricata to analyze a network     |_In progress_ <a href="https://github.com/d4n392/Network-Analysis-Packet-Sniffing-Lab" target="_blank"> Network Analysis Packet Sniffing Lab</a>|
+| Utilizing Wireshark, tcpdump, and Suricata to analyze a network     |_In progress_ <a href="https://github.com/d4n392/Network-Analyzer-Packet-Sniffing-Lab" target="_blank"> Network Analyzer Packet Sniffing Lab</a>|
 | Endpoint Detection and Response with Fortinet | _In progress_ <a href="https://github.com/d4n392/FortiEDR-Lab" target="_blank"> FortiEDR Lab</a>|
 
 
@@ -49,7 +49,7 @@ Explore my cybersecurity projects as I document my unique tech journey.
     
 ### Network
 <div>
-<a href="https://github.com/d4n392/Network-Analysis-Packet-Sniffing-Lab" target="_blank">
+<a href="https://github.com/d4n392/Network-Analyzer-Packet-Sniffing-Lab" target="_blank">
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-tcpdump-6B8E23?&style=for-the-badge&logo=tcpdump&logoColor=white" />
     <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
@@ -102,6 +102,6 @@ Explore my cybersecurity projects as I document my unique tech journey.
 - <a href="https://github.com/d4n392/Managing-Authorization-in-Linux" target="_blank"> Managing Authorization in Linux</a>
 - <a href="https://github.com/d4n392/Querying-Splunk-via-SPL" target="_blank"> Querying Splunk via SPL</a>
 - <a href="https://github.com/d4n392/Data-Integrity-Using-SHA-256" target="_blank"> Data Integrity Using SHA-256</a>
-- _In progress..._ <a href="https://github.com/d4n392/Network-Analysis-Packet-Sniffing-Lab" target="_blank"> Network Analysis Packet Sniffing Lab</a>
+- _In progress..._ <a href="https://github.com/d4n392/Network-Analyzer-Packet-Sniffing-Lab" target="_blank"> Network Analyzer Packet Sniffing Lab</a>
 - _In progress..._ <a href="https://github.com/d4n392/FortiEDR-Lab" target="_blank"> FortiEDR Lab</a>
 
