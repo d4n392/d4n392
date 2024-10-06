@@ -5,7 +5,7 @@ I am a certified cybersecurity professional with a knack for technology and solv
 
 ## Objective
 
-Explore my cybersecurity projects as I document my very own tech journey.
+Explore my cybersecurity projects as I document my unique tech journey.
 
 ## Skills
 
