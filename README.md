@@ -1,7 +1,7 @@
 # Hello, I'm Dane
 <a href="https://linkedin.com/in/dane-reilly"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am a certified cybersecurity professional with a knack for technology and solving problems. An enjoyment of continuous learning in such a vast field, has led me to discover a hidden passion for DFIR and Threat Hunting. I specialize in using advanced tactics to identify, prioritize and mitigate potential security risks in business infrastructure.
+Technology has been my world from a young age—what started with video games and early PC explorations evolved into a hands-on career in cybersecurity. As a CompTIA Security+ certified professional training for my CEH, I dive deep into real-world threat scenarios and security challenges because it’s what I love to do. From studying attack tactics to solving complex vulnerabilities, I’m driven by a passion for safeguarding the systems and infrastructure that shape our connected lives.
 
 ## Objective
 
