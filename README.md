@@ -92,6 +92,70 @@ Explore my cybersecurity projects as I document my unique tech journey.
 </a>
 </div>
 
+## Professional Course Certificates
+<div>
+<!-- 63-Hr Pre-Licensing Real Estate Associate Course Certificate -->
+<a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/-63%20Hr%20Real%20Estate-1E90FF?&style=for-the-badge&logo=HomeAdvisor&logoColor=white" alt="Real Estate Certificate" />
+</a>
+
+<!-- AIG Shields Up- Cybersecurity Job Simulation -->
+<a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/-AIG%20Shields%20Up-FF4500?&style=for-the-badge&logo=Shield&logoColor=white" alt="AIG Shields Up Badge" />
+</a>
+
+<!-- arcX - Cyber Threat Intelligence 101 -->
+<a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/-arcX%20CTI%20101-8A2BE2?&style=for-the-badge&logo=ArchLinux&logoColor=white" alt="arcX CTI Badge" />
+</a>
+
+<!-- Simplilearn CISM Course -->
+<a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/-Simplilearn%20CISM%20Course-228B22?&style=for-the-badge&logo=Leanpub&logoColor=white" alt="Simplilearn CISM Badge" />
+</a>
+
+<!-- Cybrary CySA+ (CS0-003) Course -->
+<a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/-Cybrary%20CySA%2B-9932CC?&style=for-the-badge&logo=Cybrary&logoColor=white" alt="Cybrary CySA+ Badge" />
+</a>
+
+<!-- Datacom Service Desk Job Sim -->
+<a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/-Datacom%20Service%20Desk-FFD700?&style=for-the-badge&logo=Deskpro&logoColor=white" alt="Datacom Service Desk Badge" />
+</a>
+
+<!-- Simplilearn Excel Dashboard For Beginners Course -->
+<a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/-Excel%20Dashboard%20Basics-006400?&style=for-the-badge&logo=MicrosoftExcel&logoColor=white" alt="Excel Dashboard Badge" />
+</a>
+
+<!-- Hexordia - Mobile Device Preservation -->
+<a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/-Hexordia%20Mobile%20Preservation-696969?&style=for-the-badge&logo=Mobile&logoColor=white" alt="Hexordia Badge" />
+</a>
+
+<!-- MITx Cybersecurity for Critical Urban Infrastructure -->
+<a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/-MITx%20Critical%20Infrastructure-000080?&style=for-the-badge&logo=MIT&logoColor=white" alt="MITx Badge" />
+</a>
+
+<!-- Qualys EDR Course -->
+<a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/-Qualys%20EDR-FF6347?&style=for-the-badge&logo=Qualys&logoColor=white" alt="Qualys EDR Badge" />
+</a>
+
+<!-- Qualys VMDR - Certified Specialist -->
+<a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/-Qualys%20VMDR%20Specialist-DC143C?&style=for-the-badge&logo=Qualys&logoColor=white" alt="Qualys VMDR Badge" />
+</a>
+
+<!-- Zendesk Training Cert -->
+<a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/-Zendesk%20Training-00BFFF?&style=for-the-badge&logo=Zendesk&logoColor=white" alt="Zendesk Training Badge" />
+</a>
+</div>
+
+
 ## Projects
 - <a href="https://github.com/d4n392/EDR-Attack-and-Defense-Lab" target="_blank"> EDR Attack and Defense Lab</a>
 - <a href="https://github.com/d4n392/Azure-SIEM-Lab" target="_blank"> Azure SIEM Lab </a>
@@ -104,4 +168,6 @@ Explore my cybersecurity projects as I document my unique tech journey.
 - <a href="https://github.com/d4n392/Data-Integrity-Using-SHA-256" target="_blank"> Data Integrity Using SHA-256</a>
 - _In progress..._ <a href="https://github.com/d4n392/Network-Analyzer-Packet-Sniffing-Lab" target="_blank"> Network Analyzer Packet Sniffing Lab</a>
 - _In progress..._ <a href="https://github.com/d4n392/FortiEDR-Lab" target="_blank"> FortiEDR Lab</a>
+
+
 
