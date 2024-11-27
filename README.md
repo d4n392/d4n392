@@ -11,6 +11,7 @@ Explore my cybersecurity projects as I document my unique tech journey.
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
+| Fun cyberspace themed hacking challenges | <a href="https://github.com/d4n392/CyberChallengeX" target="_blank"> CyberChallengeX: Echo from the Dark</a>|
 | Endpoint Detection and Response with LimaCharlie    | <a href="https://github.com/d4n392/EDR-Attack-and-Defense-Lab" target="_blank"> EDR Attack and Defense Lab</a>|
 | SIEM implementation and Log analysis          | <a href="https://github.com/d4n392/Azure-SIEM-Lab" target="_blank"> Azure SIEM Lab</a>|
 | Investigating a phishing email via Chronicle  | <a href="https://github.com/d4n392/Google-Chronicle-Phishing-Investigation" target="_blank"> Google Chronicle Phishing Investigation</a>|
@@ -157,6 +158,7 @@ Explore my cybersecurity projects as I document my unique tech journey.
 
 
 ## Projects
+- <a href="https://github.com/d4n392/CyberChallengeX" target="_blank"> CyberChallengeX: Echo from the Dark</a>
 - <a href="https://github.com/d4n392/EDR-Attack-and-Defense-Lab" target="_blank"> EDR Attack and Defense Lab</a>
 - <a href="https://github.com/d4n392/Azure-SIEM-Lab" target="_blank"> Azure SIEM Lab </a>
 - <a href="https://github.com/d4n392/Google-Chronicle-Phishing-Investigation" target="_blank"> Google Chronicle Phishing Investigation</a>
