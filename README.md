@@ -100,51 +100,51 @@ Explore my cybersecurity projects as I document my unique tech journey.
         <img src="https://img.shields.io/badge/-63%20Hr%20Real%20Estate-1E90FF?&style=for-the-badge&logo=HomeAdvisor&logoColor=white" alt="63 Hr Real Estate Certificate" />
     </a>
     <!-- AIG Shields Up- Cybersecurity Job Simulation -->
-    <a href="https://github.com/d4n392/Professional-Certificates" target="_blank">
+    <a href="https://github.com/d4n392/Professional-Certificates/blob/main/AIG%20Shields%20Up-%20Cybersecurity%20Job%20Simulation.pdf" target="_blank">
         <img src="https://img.shields.io/badge/-AIG%20Shields%20Up-FF4500?&style=for-the-badge&logo=Shield&logoColor=white" alt="AIG Shields Up Badge" />
     </a>
     <!-- arcX - Cyber Threat Intelligence 101 -->
-    <a href="https://github.com/d4n392/Professional-Certificates" target="_blank">
+    <a href="https://github.com/d4n392/Professional-Certificates/blob/main/arcX%20-%20Cyber%20Threat%20Intelligence%20101.pdf" target="_blank">
         <img src="https://img.shields.io/badge/-arcX%20CTI%20101-8A2BE2?&style=for-the-badge&logo=ArchLinux&logoColor=white" alt="arcX CTI Badge" />
     </a>
     <!-- Datacom Service Desk Job Sim -->
-    <a href="https://github.com/d4n392/Professional-Certificates" target="_blank">
+    <a href="https://github.com/d4n392/Professional-Certificates/blob/main/Datacom%20Service%20Desk%20Job%20Sim.pdf" target="_blank">
         <img src="https://img.shields.io/badge/-Datacom%20Service%20Desk-FFD700?&style=for-the-badge&logo=Deskpro&logoColor=white" alt="Datacom Service Desk Badge" />
     </a>
     <!-- Excel Dashboard -->
-    <a href="https://github.com/d4n392/Professional-Certificates" target="_blank">
+    <a href="https://github.com/d4n392/Professional-Certificates/blob/main/Excel%20Dashboard.pdf" target="_blank">
         <img src="https://img.shields.io/badge/-Excel%20Dashboard%20Basics-006400?&style=for-the-badge&logo=MicrosoftExcel&logoColor=white" alt="Excel Dashboard Badge" />
     </a>
     <!-- Hexordia - Mobile Device Preservation -->
-    <a href="https://github.com/d4n392/Professional-Certificates" target="_blank">
+    <a href="https://github.com/d4n392/Professional-Certificates/blob/main/Hexordia%20-%20Mobile%20Device%20Preservation.png" target="_blank">
         <img src="https://img.shields.io/badge/-Hexordia%20Mobile%20Preservation-696969?&style=for-the-badge&logo=Mobile&logoColor=white" alt="Hexordia Badge" />
     </a>
     <!-- Intro to IoT -->
-    <a href="https://github.com/d4n392/Professional-Certificates" target="_blank">
+    <a href="https://github.com/d4n392/Professional-Certificates/blob/main/Intro%20to%20IoT.pdf" target="_blank">
         <img src="https://img.shields.io/badge/-Intro%20to%20IoT-FF6347?&style=for-the-badge&logo=Iot&logoColor=white" alt="Intro to IoT Badge" />
     </a>
     <!-- MITx Online Certificate for Cybersecurity for Critical Urban Infrastructure -->
-    <a href="https://github.com/d4n392/Professional-Certificates" target="_blank">
+    <a href="https://github.com/d4n392/Professional-Certificates/blob/main/MITx%20Online%20_%20Certificate%20for_%20Cybersecurity%20for%20Critical%20Urban%20Infrastructure.pdf" target="_blank">
         <img src="https://img.shields.io/badge/-MITx%20Critical%20Infrastructure-000080?&style=for-the-badge&logo=MIT&logoColor=white" alt="MITx Certificate" />
     </a>
     <!-- Python 101 -->
-    <a href="https://github.com/d4n392/Professional-Certificates" target="_blank">
+    <a href="https://github.com/d4n392/Professional-Certificates/blob/main/Python%20101.pdf" target="_blank">
         <img src="https://img.shields.io/badge/-Python%20101-3776AB?&style=for-the-badge&logo=Python&logoColor=white" alt="Python 101 Badge" />
     </a>
     <!-- Qualys EDR -->
-    <a href="https://github.com/d4n392/Professional-Certificates" target="_blank">
+    <a href="https://github.com/d4n392/Professional-Certificates/blob/main/Qualys%20EDR.pdf" target="_blank">
         <img src="https://img.shields.io/badge/-Qualys%20EDR-FF6347?&style=for-the-badge&logo=Qualys&logoColor=white" alt="Qualys EDR Badge" />
     </a>
     <!-- Qualys VMDR - Certified Specialist -->
-    <a href="https://github.com/d4n392/Professional-Certificates" target="_blank">
+    <a href="https://github.com/d4n392/Professional-Certificates/blob/main/Qualys%20VMDR%20-%20Certified%20Specialist.pdf" target="_blank">
         <img src="https://img.shields.io/badge/-Qualys%20VMDR%20Specialist-DC143C?&style=for-the-badge&logo=Qualys&logoColor=white" alt="Qualys VMDR Badge" />
     </a>
     <!-- Simplilearn CISM Course -->
-    <a href="https://github.com/d4n392/Professional-Certificates" target="_blank">
+    <a href="https://github.com/d4n392/Professional-Certificates/blob/main/Simplilearn%20CISM%20Course.pdf" target="_blank">
         <img src="https://img.shields.io/badge/-Simplilearn%20CISM%20Course-228B22?&style=for-the-badge&logo=Leanpub&logoColor=white" alt="Simplilearn CISM Badge" />
     </a>
     <!-- Zendesk Training Cert -->
-    <a href="https://github.com/d4n392/Professional-Certificates" target="_blank">
+    <a href="https://github.com/d4n392/Professional-Certificates/blob/main/Zendesk%20Training%20Cert.pdf" target="_blank">
         <img src="https://img.shields.io/badge/-Zendesk%20Training-00BFFF?&style=for-the-badge&logo=Zendesk&logoColor=white" alt="Zendesk Training Badge" />
     </a>
 </div>
