@@ -96,7 +96,7 @@ Explore my cybersecurity projects as I document my unique tech journey.
 ## Course Completion Certificates
 <div>
     <!-- 63-Hr Pre-Licensing Real Estate Associate Course Certificate -->
-    <a href="https://github.com/d4n392/Professional-Certificates/63-Hr Pre-Licensing Real Estate Associate Course Certificate.pdf" target="_blank">
+    <a href="https://github.com/d4n392/Professional-Certificates/blob/main/63-Hr%20Pre-Licensing%20Real%20Estate%20Associate%20Course%20Certificate.pdf" target="_blank">
         <img src="https://img.shields.io/badge/-63%20Hr%20Real%20Estate-1E90FF?&style=for-the-badge&logo=HomeAdvisor&logoColor=white" alt="63 Hr Real Estate Certificate" />
     </a>
     <!-- AIG Shields Up- Cybersecurity Job Simulation -->
