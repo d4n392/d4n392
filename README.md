@@ -1,7 +1,7 @@
 # Hello, I'm Dane
 <a href="https://linkedin.com/in/dane-reilly"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-Technology has been my world from a young age—what started with video games and early PC explorations evolved into a hands-on career in cybersecurity. As a CompTIA Security+ certified professional training for my CEH, I dive deep into real-world threat scenarios and security challenges because it’s what I love to do. From studying attack tactics to solving complex vulnerabilities, I’m driven by a passion for safeguarding the systems and infrastructure that shape our connected lives.
+Technology has been my world from a young age. What started with video games and early PC explorations evolved into a hands-on career in cybersecurity. As a CompTIA Security+ certified professional training for my CEH, I dive deep into real-world threat scenarios and security challenges because it’s what I love to do. From studying attack tactics to solving complex vulnerabilities, I’m driven by a passion for safeguarding the systems and infrastructure that shape our connected lives.
 
 ## Objective
 
@@ -84,6 +84,14 @@ Explore my cybersecurity projects as I document my unique tech journey.
 <div>
 <a href="https://www.credly.com/earner/earned/badge/55217136-cfed-42f7-bb11-229679bb8b5d" target="_blank">
     <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" alt="Security+ Badge" />
+</a>
+    <a href="https://candidate.speedexam.net/certificate.aspx?SSTATE=am4131EniU8ntjp4bO5mXY7XkJQXFNsdsSE8jH7qa7UuAbeSbvma52evDcLwq1JxPLgEjWQ22u0E1SHSUzNJ2HGTmZV9ba+9bUfTPO7RqnQ=" target="_blank">
+        <img src="https://img.shields.io/badge/-CAP-FF7F00?&style=for-the-badge&logo=SecOpsGroup&logoColor=white" alt="CAP Badge" />
+    </a>
+</a>
+    <a href="https://candidate.speedexam.net/certificate.aspx?SSTATE=am4131EniU8ntjp4bO5mXVKN4Xf8Ks6FoHbYoob69TmqlwVAatpWPBw/8Xg1C3HaKbsynDG3l55n8LyNUt2Cu52Y5GQlQ0s90VaI0u8bnVU=" target="_blank">
+        <img src="https://img.shields.io/badge/-CNSP-FF7F00?&style=for-the-badge&logo=SecOpsGroup&logoColor=white" alt="CNSP Badge" />
+    </a>
 </a>
 <a href="https://www.credly.com/earner/earned/badge/65dbf142-f8a8-4a8d-b46f-cdaa624b38a5" target="_blank">
     <img src="https://img.shields.io/badge/-ISC2%20CC-00AC18?&style=for-the-badge&logo=ISC2&logoColor=white" alt="ISC2 CC Badge" />
