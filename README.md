@@ -86,11 +86,11 @@ Explore my cybersecurity projects as I document my unique tech journey.
     <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" alt="Security+ Badge" />
 </a>
     <a href="https://candidate.speedexam.net/certificate.aspx?SSTATE=am4131EniU8ntjp4bO5mXY7XkJQXFNsdsSE8jH7qa7UuAbeSbvma52evDcLwq1JxPLgEjWQ22u0E1SHSUzNJ2HGTmZV9ba+9bUfTPO7RqnQ=" target="_blank">
-        <img src="https://img.shields.io/badge/-CAP-FF7F00?&style=for-the-badge&logo=SecOpsGroup&logoColor=white" alt="CAP Badge" />
+        <img src="https://img.shields.io/badge/-CAP-FF7F00?&style=for-the-badge&logo=https://secops.group/wp-content/uploads/2023/01/Certified-AppSec-Practitioner.png&logoColor=white" alt="CAP Badge" />
     </a>
 </a>
     <a href="https://candidate.speedexam.net/certificate.aspx?SSTATE=am4131EniU8ntjp4bO5mXVKN4Xf8Ks6FoHbYoob69TmqlwVAatpWPBw/8Xg1C3HaKbsynDG3l55n8LyNUt2Cu52Y5GQlQ0s90VaI0u8bnVU=" target="_blank">
-        <img src="https://img.shields.io/badge/-CNSP-FF7F00?&style=for-the-badge&logo=SecOpsGroup&logoColor=white" alt="CNSP Badge" />
+        <img src="https://img.shields.io/badge/-CNSP-FF7F00?&style=for-the-badge&logo=https://secops.group/wp-content/uploads/2023/01/Certified-Network-Security-Practitioner.png&logoColor=white" alt="CNSP Badge" />
     </a>
 </a>
 <a href="https://www.credly.com/earner/earned/badge/65dbf142-f8a8-4a8d-b46f-cdaa624b38a5" target="_blank">
