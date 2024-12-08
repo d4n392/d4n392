@@ -11,6 +11,7 @@ Explore my cybersecurity projects as I document my unique tech journey.
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
+| Developing real-world skills in penetration testing, vulnerability assessment, exploitation, and remediation. |_In progress_ <a href="https://github.com/d4n392/PenTest-Vulnerability-Assessment-Lab" target="_blank"> PenTest Vulnerability Assessment Lab </a>|
 | Fun cyberspace themed hacking challenges | <a href="https://github.com/d4n392/CyberChallengeX" target="_blank"> CyberChallengeX: Echo from the Dark</a>|
 | Endpoint Detection and Response with LimaCharlie    | <a href="https://github.com/d4n392/EDR-Attack-and-Defense-Lab" target="_blank"> EDR Attack and Defense Lab</a>|
 | SIEM implementation and Log analysis          | <a href="https://github.com/d4n392/Azure-SIEM-Lab" target="_blank"> Azure SIEM Lab</a>|
@@ -22,8 +23,6 @@ Explore my cybersecurity projects as I document my unique tech journey.
 | Splunk queries with SPL discovering a possible Brute Force attack | <a href="https://github.com/d4n392/Querying-Splunk-via-SPL" target="_blank"> Querying Splunk via SPL</a>|
 | SHA-256 checksum to verify file integrity     | <a href="https://github.com/d4n392/Data-Integrity-Using-SHA-256" target="_blank"> Data Integrity Using SHA-256</a>|
 | Utilizing Wireshark, tcpdump, and Suricata to analyze a network     |_In progress_ <a href="https://github.com/d4n392/Network-Analyzer-Packet-Sniffing-Lab" target="_blank"> Network Analyzer Packet Sniffing Lab</a>|
-| Endpoint Detection and Response with Fortinet | _In progress_ <a href="https://github.com/d4n392/FortiEDR-Lab" target="_blank"> FortiEDR Lab</a>|
-
 
 
 
@@ -61,9 +60,6 @@ Explore my cybersecurity projects as I document my unique tech journey.
 <div>
 <a href="https://github.com/d4n392/EDR-Attack-and-Defense-Lab" target="_blank"> 
     <img src="https://img.shields.io/badge/-LimaCharlie-00A4EF?&style=for-the-badge&logo=LimaCharlie&logoColor=white" /> 
-</a>
-<a href="https://github.com/d4n392/FortiEDR-Lab" target="_blank">    
-    <img src="https://img.shields.io/badge/-FortiEDR-000000?&style=for-the-badge&logo=fortinet&logoColor=white" />
 </a>
 </div>
     
@@ -171,7 +167,6 @@ Explore my cybersecurity projects as I document my unique tech journey.
 - <a href="https://github.com/d4n392/Querying-Splunk-via-SPL" target="_blank"> Querying Splunk via SPL</a>
 - <a href="https://github.com/d4n392/Data-Integrity-Using-SHA-256" target="_blank"> Data Integrity Using SHA-256</a>
 - _In progress..._ <a href="https://github.com/d4n392/Network-Analyzer-Packet-Sniffing-Lab" target="_blank"> Network Analyzer Packet Sniffing Lab</a>
-- _In progress..._ <a href="https://github.com/d4n392/FortiEDR-Lab" target="_blank"> FortiEDR Lab</a>
 
 
 
