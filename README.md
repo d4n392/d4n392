@@ -5,7 +5,9 @@ Technology has been my world from a young age. What started with video games and
 
 ## Objective
 
-Explore my cybersecurity projects as I document my unique tech journey.
+Explore my cybersecurity projects as I document my unique tech journey...
+
+My goal is to become a skilled cybersecurity professional, specializing in penetration testing, vulnerability assessment, and DFIR, with a focus on continuous learning and hands-on experience to safeguard digital environments and contribute to the security of organizations.
 
 ## Skills
 
