@@ -123,11 +123,15 @@ My goal is to become a skilled cybersecurity professional, specializing in penet
     </a>
     <!-- Hexordia - Mobile Device Preservation -->
     <a href="https://github.com/d4n392/Professional-Certificates/blob/main/Hexordia%20-%20Mobile%20Device%20Preservation.png" target="_blank">
-        <img src="https://img.shields.io/badge/-Hexordia%20Mobile%20Preservation-32CD32?&style=for-the-badge&logo=Mobile&logoColor=white" alt="Hexordia Badge" />
+        <img src="https://img.shields.io/badge/-Hexordia%20Mobile%20Preservation-66FF66?&style=for-the-badge&logo=Mobile&logoColor=white" alt="Hexordia Badge" />
+    </a>
+      <!-- Hexordia - Mobile Forensics Fundamentals -->
+    <a href="https://github.com/d4n392/Professional-Certificates/blob/main/Hexordia%20-%20Mobile%20Forensics%20Fundamentals%20Pt%201.png" target="_blank">
+        <img src="https://img.shields.io/badge/-Hexordia%20Mobile%20Forensics%20Fundamentals-66FF66?&style=for-the-badge&logo=Mobile&logoColor=white" alt="Hexordia Badge" />
     </a>
     <!-- Intro to IoT -->
     <a href="https://github.com/d4n392/Professional-Certificates/blob/main/Intro%20to%20IoT.pdf" target="_blank">
-        <img src="https://img.shields.io/badge/-Intro%20to%20IoT-FF6347?&style=for-the-badge&logo=Iot&logoColor=white" alt="Intro to IoT Badge" />
+        <img src="https://img.shields.io/badge/-Intro%20to%20IoT-0096D6?&style=for-the-badge&logo=Iot&logoColor=white" alt="Intro to IoT Badge" />
     </a>
     <!-- MITx Online Certificate for Cybersecurity for Critical Urban Infrastructure -->
     <a href="https://github.com/d4n392/Professional-Certificates/blob/main/MITx%20Online%20_%20Certificate%20for_%20Cybersecurity%20for%20Critical%20Urban%20Infrastructure.pdf" target="_blank">
@@ -135,19 +139,19 @@ My goal is to become a skilled cybersecurity professional, specializing in penet
     </a>
     <!-- Python 101 -->
     <a href="https://github.com/d4n392/Professional-Certificates/blob/main/Python%20101.pdf" target="_blank">
-        <img src="https://img.shields.io/badge/-Python%20101-3776AB?&style=for-the-badge&logo=Python&logoColor=white" alt="Python 101 Badge" />
+        <img src="https://img.shields.io/badge/-Python%20101-FFD43B?&style=for-the-badge&logo=Python&logoColor=white" alt="Python 101 Badge" />
     </a>
     <!-- Qualys EDR -->
     <a href="https://github.com/d4n392/Professional-Certificates/blob/main/Qualys%20EDR.pdf" target="_blank">
-        <img src="https://img.shields.io/badge/-Qualys%20EDR-FF6347?&style=for-the-badge&logo=Qualys&logoColor=white" alt="Qualys EDR Badge" />
+        <img src="https://img.shields.io/badge/-Qualys%20EDR-E2001A?&style=for-the-badge&logo=Qualys&logoColor=white" alt="Qualys EDR Badge" />
     </a>
     <!-- Simplilearn CISM Course -->
     <a href="https://github.com/d4n392/Professional-Certificates/blob/main/Simplilearn%20CISM%20Course.pdf" target="_blank">
-        <img src="https://img.shields.io/badge/-Simplilearn%20CISM%20Course-228B22?&style=for-the-badge&logo=Leanpub&logoColor=white" alt="Simplilearn CISM Badge" />
+        <img src="https://img.shields.io/badge/-Simplilearn%20CISM%20Course-0096D6?&style=for-the-badge&logo=Leanpub&logoColor=white" alt="Simplilearn CISM Badge" />
     </a>
     <!-- Zendesk Training Cert -->
     <a href="https://github.com/d4n392/Professional-Certificates/blob/main/Zendesk%20Training%20Cert.pdf" target="_blank">
-        <img src="https://img.shields.io/badge/-Zendesk%20Training-00BFFF?&style=for-the-badge&logo=Zendesk&logoColor=white" alt="Zendesk Training Badge" />
+        <img src="https://img.shields.io/badge/-Zendesk%20Training-006D6D?&style=for-the-badge&logo=Zendesk&logoColor=white" alt="Zendesk Training Badge" />
     </a>
 </div>
 
