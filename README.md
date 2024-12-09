@@ -97,14 +97,14 @@ My goal is to become a skilled cybersecurity professional, specializing in penet
 <a href="https://www.credly.com/badges/6d945be8-88ea-4334-b338-67ce8990a67c" target="_blank">
     <img src="https://img.shields.io/badge/-Google%20Cybersecurity-4285F4?&style=for-the-badge&logo=Google&logoColor=white" /> 
 </a>
+    <!-- Qualys VMDR - Certified Specialist -->
+<a href="https://github.com/d4n392/Professional-Certificates/blob/main/Qualys%20VMDR%20-%20Certified%20Specialist.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/-Qualys%20VMDR%20Specialist-DC143C?&style=for-the-badge&logo=Qualys&logoColor=white" alt="Qualys VMDR Badge" />
+</a>
 </div>
 
 ## Course Completion Certificates
 <div>
-    <!-- 63-Hr Pre-Licensing Real Estate Associate Course Certificate -->
-    <a href="https://github.com/d4n392/Professional-Certificates/blob/main/63-Hr%20Pre-Licensing%20Real%20Estate%20Associate%20Course%20Certificate.pdf" target="_blank">
-        <img src="https://img.shields.io/badge/-63%20Hr%20Real%20Estate-1E90FF?&style=for-the-badge&logo=HomeAdvisor&logoColor=white" alt="63 Hr Real Estate Certificate" />
-    </a>
     <!-- AIG Shields Up- Cybersecurity Job Simulation -->
     <a href="https://github.com/d4n392/Professional-Certificates/blob/main/AIG%20Shields%20Up-%20Cybersecurity%20Job%20Simulation.pdf" target="_blank">
         <img src="https://img.shields.io/badge/-AIG%20Shields%20Up-FF4500?&style=for-the-badge&logo=Shield&logoColor=white" alt="AIG Shields Up Badge" />
@@ -140,10 +140,6 @@ My goal is to become a skilled cybersecurity professional, specializing in penet
     <!-- Qualys EDR -->
     <a href="https://github.com/d4n392/Professional-Certificates/blob/main/Qualys%20EDR.pdf" target="_blank">
         <img src="https://img.shields.io/badge/-Qualys%20EDR-FF6347?&style=for-the-badge&logo=Qualys&logoColor=white" alt="Qualys EDR Badge" />
-    </a>
-    <!-- Qualys VMDR - Certified Specialist -->
-    <a href="https://github.com/d4n392/Professional-Certificates/blob/main/Qualys%20VMDR%20-%20Certified%20Specialist.pdf" target="_blank">
-        <img src="https://img.shields.io/badge/-Qualys%20VMDR%20Specialist-DC143C?&style=for-the-badge&logo=Qualys&logoColor=white" alt="Qualys VMDR Badge" />
     </a>
     <!-- Simplilearn CISM Course -->
     <a href="https://github.com/d4n392/Professional-Certificates/blob/main/Simplilearn%20CISM%20Course.pdf" target="_blank">
