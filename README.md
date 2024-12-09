@@ -42,6 +42,7 @@ My goal is to become a skilled cybersecurity professional, specializing in penet
     <img src="https://img.shields.io/badge/-Linux-FCC624?&style=for-the-badge&logo=Linux&logoColor=black" />
 </a>
 
+
 ### Ticketing 
 <div>
 <a href="https://github.com/d4n392/Zendesk-Tech-Support-Lab" target="_blank">
@@ -53,7 +54,7 @@ My goal is to become a skilled cybersecurity professional, specializing in penet
 <div>
 <a href="https://github.com/d4n392/Network-Analyzer-Packet-Sniffing-Lab" target="_blank">
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-tcpdump-6B8E23?&style=for-the-badge&logo=tcpdump&logoColor=white" />
+    <img src="https://img.shields.io/badge/-tcpdump-77216F?&style=for-the-badge&logo=tcpdump&logoColor=white" />
     <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
 </a>
 </div>
@@ -71,10 +72,10 @@ My goal is to become a skilled cybersecurity professional, specializing in penet
     <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
 </a>
 <a href="https://github.com/d4n392/Querying-Splunk-via-SPL" target="_blank"> 
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Splunk-76B041?&style=for-the-badge&logo=Splunk&logoColor=white" />
 </a>
 <a href="https://github.com/d4n392/Google-Chronicle-Phishing-Investigation" target="_blank"> 
-    <img src="https://img.shields.io/badge/-Google_Chronicle-000000?&style=for-the-badge&logo=google-chrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Google_Chronicle-DB4437?&style=for-the-badge&logo=google-chrome&logoColor=white" />
 </a>
 </div>
 
