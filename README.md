@@ -81,7 +81,7 @@ My goal is to become a skilled cybersecurity professional, specializing in penet
 ## Certifications
 <div>
 <a href="https://www.credly.com/earner/earned/badge/55217136-cfed-42f7-bb11-229679bb8b5d" target="_blank">
-    <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" alt="Security+ Badge" />
+    <img src="https://img.shields.io/badge/-Security%2B-E50000?&style=for-the-badge&logo=CompTIA&logoColor=white" alt="Security+ Badge" />
 </a>
     <a href="https://candidate.speedexam.net/certificate.aspx?SSTATE=am4131EniU8ntjp4bO5mXY7XkJQXFNsdsSE8jH7qa7UuAbeSbvma52evDcLwq1JxPLgEjWQ22u0E1SHSUzNJ2HGTmZV9ba+9bUfTPO7RqnQ=" target="_blank">
         <img src="https://img.shields.io/badge/-CAP-FF7F00?&style=for-the-badge&logo=https://secops.group/wp-content/uploads/2023/01/Certified-AppSec-Practitioner.png&logoColor=white" alt="CAP Badge" />
@@ -99,7 +99,7 @@ My goal is to become a skilled cybersecurity professional, specializing in penet
 </a>
     <!-- Qualys VMDR - Certified Specialist -->
 <a href="https://github.com/d4n392/Professional-Certificates/blob/main/Qualys%20VMDR%20-%20Certified%20Specialist.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/-Qualys%20VMDR%20Specialist-DC143C?&style=for-the-badge&logo=Qualys&logoColor=white" alt="Qualys VMDR Badge" />
+    <img src="https://img.shields.io/badge/-Qualys%20VMDR%20Specialist-E2001A?&style=for-the-badge&logo=Qualys&logoColor=white" alt="Qualys VMDR Badge" />
 </a>
 </div>
 
@@ -107,15 +107,15 @@ My goal is to become a skilled cybersecurity professional, specializing in penet
 <div>
     <!-- AIG Shields Up- Cybersecurity Job Simulation -->
     <a href="https://github.com/d4n392/Professional-Certificates/blob/main/AIG%20Shields%20Up-%20Cybersecurity%20Job%20Simulation.pdf" target="_blank">
-        <img src="https://img.shields.io/badge/-AIG%20Shields%20Up-FF4500?&style=for-the-badge&logo=Shield&logoColor=white" alt="AIG Shields Up Badge" />
+        <img src="https://img.shields.io/badge/-AIG%20Shields%20Up-000080?&style=for-the-badge&logo=Shield&logoColor=white" alt="AIG Shields Up Badge" />
     </a>
     <!-- arcX - Cyber Threat Intelligence 101 -->
     <a href="https://github.com/d4n392/Professional-Certificates/blob/main/arcX%20-%20Cyber%20Threat%20Intelligence%20101.pdf" target="_blank">
-        <img src="https://img.shields.io/badge/-arcX%20CTI%20101-8A2BE2?&style=for-the-badge&logo=ArchLinux&logoColor=white" alt="arcX CTI Badge" />
+        <img src="https://img.shields.io/badge/-arcX%20CTI%20101-B22222?&style=for-the-badge&logo=ArchLinux&logoColor=white" alt="arcX CTI Badge" />
     </a>
     <!-- Datacom Service Desk Job Sim -->
     <a href="https://github.com/d4n392/Professional-Certificates/blob/main/Datacom%20Service%20Desk%20Job%20Sim.pdf" target="_blank">
-        <img src="https://img.shields.io/badge/-Datacom%20Service%20Desk-FFD700?&style=for-the-badge&logo=Deskpro&logoColor=white" alt="Datacom Service Desk Badge" />
+        <img src="https://img.shields.io/badge/-Datacom%20Service%20Desk-0066CC?&style=for-the-badge&logo=Deskpro&logoColor=white" alt="Datacom Service Desk Badge" />
     </a>
     <!-- Excel Dashboard -->
     <a href="https://github.com/d4n392/Professional-Certificates/blob/main/Excel%20Dashboard.pdf" target="_blank">
@@ -123,7 +123,7 @@ My goal is to become a skilled cybersecurity professional, specializing in penet
     </a>
     <!-- Hexordia - Mobile Device Preservation -->
     <a href="https://github.com/d4n392/Professional-Certificates/blob/main/Hexordia%20-%20Mobile%20Device%20Preservation.png" target="_blank">
-        <img src="https://img.shields.io/badge/-Hexordia%20Mobile%20Preservation-696969?&style=for-the-badge&logo=Mobile&logoColor=white" alt="Hexordia Badge" />
+        <img src="https://img.shields.io/badge/-Hexordia%20Mobile%20Preservation-32CD32?&style=for-the-badge&logo=Mobile&logoColor=white" alt="Hexordia Badge" />
     </a>
     <!-- Intro to IoT -->
     <a href="https://github.com/d4n392/Professional-Certificates/blob/main/Intro%20to%20IoT.pdf" target="_blank">
@@ -131,7 +131,7 @@ My goal is to become a skilled cybersecurity professional, specializing in penet
     </a>
     <!-- MITx Online Certificate for Cybersecurity for Critical Urban Infrastructure -->
     <a href="https://github.com/d4n392/Professional-Certificates/blob/main/MITx%20Online%20_%20Certificate%20for_%20Cybersecurity%20for%20Critical%20Urban%20Infrastructure.pdf" target="_blank">
-        <img src="https://img.shields.io/badge/-MITx%20Critical%20Infrastructure-000080?&style=for-the-badge&logo=MIT&logoColor=white" alt="MITx Certificate" />
+        <img src="https://img.shields.io/badge/-MITx%20Critical%20Infrastructure-A31F34?&style=for-the-badge&logo=MIT&logoColor=white" alt="MITx Certificate" />
     </a>
     <!-- Python 101 -->
     <a href="https://github.com/d4n392/Professional-Certificates/blob/main/Python%20101.pdf" target="_blank">
