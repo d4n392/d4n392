@@ -159,6 +159,7 @@ My goal is to become a skilled cybersecurity professional, specializing in penet
 
 
 ## Projects
+- _In progress_ <a href="https://github.com/d4n392/PenTest-Vulnerability-Assessment-Lab" target="_blank"> PenTest Vulnerability Assessment Lab </a>
 - <a href="https://github.com/d4n392/CyberChallengeX" target="_blank"> CyberChallengeX: Echo from the Dark</a>
 - <a href="https://github.com/d4n392/EDR-Attack-and-Defense-Lab" target="_blank"> EDR Attack and Defense Lab</a>
 - <a href="https://github.com/d4n392/Azure-SIEM-Lab" target="_blank"> Azure SIEM Lab </a>
