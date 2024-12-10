@@ -17,6 +17,7 @@ My goal is to become a skilled cybersecurity professional, specializing in penet
 | Fun cyberspace themed hacking challenges | <a href="https://github.com/d4n392/CyberChallengeX" target="_blank"> CyberChallengeX: Echo from the Dark</a>|
 | Endpoint Detection and Response with LimaCharlie    | <a href="https://github.com/d4n392/EDR-Attack-and-Defense-Lab" target="_blank"> EDR Attack and Defense Lab</a>|
 | SIEM implementation and Log analysis          | <a href="https://github.com/d4n392/Azure-SIEM-Lab" target="_blank"> Azure SIEM Lab</a>|
+| Deployed and secured enterprise Active Directory with automation, compliance, and auditing | <a href="https://github.com/d4n392/Secure-Active-Directory-Deployment-Project" target="_blank"> Secure Active Directory Deployment Project</a>|
 | Investigating a phishing email via Chronicle  | <a href="https://github.com/d4n392/Google-Chronicle-Phishing-Investigation" target="_blank"> Google Chronicle Phishing Investigation</a>|
 | Exceptional customer service through ticket creation and resolution on Zendesk     | <a href="https://github.com/d4n392/Zendesk-Tech-Support-Lab" target="_blank"> Zendesk Tech Support Lab</a>|
 | SQL filtering using Linux CLI                    | <a href="https://github.com/d4n392/Enhancing-Security-via-SQL" target="_blank"> Enhancing Security via SQL</a>|
