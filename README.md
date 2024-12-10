@@ -87,7 +87,8 @@ My goal is to become a skilled cybersecurity professional, specializing in penet
 </a>
 <a href="https://www.credly.com/earner/earned/badge/65dbf142-f8a8-4a8d-b46f-cdaa624b38a5" target="_blank">
     <img src="https://img.shields.io/badge/-ISC2%20CC-00AC18?&style=for-the-badge&logo=ISC2&logoColor=white" alt="ISC2 CC Badge" />
-<a href=" https://certs.ine.com/5385fffb-4b64-4bd4-a188-93040816da3b#acc.c24LPBzg" target="_blank">
+</a>
+<a href="https://certs.ine.com/5385fffb-4b64-4bd4-a188-93040816da3b#acc.avNZ86lM" target="_blank">
     <img src="https://img.shields.io/badge/-ICCA-007BFF?&style=for-the-badge&logo=certification&logoColor=white" alt="ICCA Badge" />
 </a>
     <a href="https://candidate.speedexam.net/certificate.aspx?SSTATE=am4131EniU8ntjp4bO5mXY7XkJQXFNsdsSE8jH7qa7UuAbeSbvma52evDcLwq1JxPLgEjWQ22u0E1SHSUzNJ2HGTmZV9ba+9bUfTPO7RqnQ=" target="_blank">
