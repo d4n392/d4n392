@@ -117,10 +117,30 @@ My goal is to become a skilled cybersecurity professional, specializing in penet
     <a href="https://github.com/d4n392/Professional-Certificates/blob/main/arcX%20-%20Cyber%20Threat%20Intelligence%20101.pdf" target="_blank">
         <img src="https://img.shields.io/badge/-arcX%20CTI%20101-B22222?&style=for-the-badge&logo=ArchLinux&logoColor=white" alt="arcX CTI Badge" />
     </a>
+    <!-- Cisco Cyber Threat Management -->
+    <a href="https://www.credly.com/earner/earned/badge/fae8ca02-2334-4830-a1b4-2953177dca7e" target="_blank">
+        <img src="https://img.shields.io/badge/Cyber%20Threat%20Management-1D4594?&style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Cyber Threat Management Badge" />
+</a>
+    <!-- Cisco Ethical Hacker -->
+    <a href="https://www.credly.com/earner/earned/badge/5ef28c18-b76e-4b7d-bf81-d96af128bf5f" target="_blank">
+        <img src="https://img.shields.io/badge/-Cisco%20Ethical%20Hacker-1D4594?&style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Ethical Hacker Badge" />
+</a>
+    <!-- Cisco Computer Hardware Basics -->
+    <a href="https://www.credly.com/earner/earned/badge/0ce5dc63-154b-4456-957b-2f23ea01d94e" target="_blank">
+        <img src="https://img.shields.io/badge/-Computer%20Hardware%20Basics-1D4594?&style=for-the-badge&logo=cisco&logoColor=white" alt="Computer Hardware Basics Badge" />
+</a>
+    <!-- Cisco OS Basics -->
+    <a href="https://www.credly.com/earner/earned/badge/2dabbb02-2dd9-4f9d-ae6a-4fbfe1a9b5c4" target="_blank">
+        <img src="https://img.shields.io/badge/-Operating%20Systems%20Basics-1D4594?&style=for-the-badge&logo=cisco&logoColor=white" alt="Operating Systems Basics Badge" />
+</a>
     <!-- Datacom Service Desk Job Sim -->
     <a href="https://github.com/d4n392/Professional-Certificates/blob/main/Datacom%20Service%20Desk%20Job%20Sim.pdf" target="_blank">
         <img src="https://img.shields.io/badge/-Datacom%20Service%20Desk-0066CC?&style=for-the-badge&logo=Deskpro&logoColor=white" alt="Datacom Service Desk Badge" />
     </a>
+        <!-- Cisco Endpoint Security -->
+<a href="https://www.credly.com/earner/earned/badge/bbdc84ee-0a27-4d1c-978f-08694474024d" target="_blank">
+        <img src="https://img.shields.io/badge/Endpoint%20Security-1D4594?&style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Endpoint Security Badge" />
+</a>
     <!-- Excel Dashboard -->
     <a href="https://github.com/d4n392/Professional-Certificates/blob/main/Excel%20Dashboard.pdf" target="_blank">
         <img src="https://img.shields.io/badge/-Excel%20Dashboard%20Basics-006400?&style=for-the-badge&logo=MicrosoftExcel&logoColor=white" alt="Excel Dashboard Badge" />
@@ -133,6 +153,10 @@ My goal is to become a skilled cybersecurity professional, specializing in penet
     <a href="https://github.com/d4n392/Professional-Certificates/blob/main/Hexordia%20-%20Mobile%20Forensics%20Fundamentals%20Pt%201.png" target="_blank">
         <img src="https://img.shields.io/badge/-Hexordia%20Mobile%20Forensics%20Fundamentals-66FF66?&style=for-the-badge&logo=Mobile&logoColor=white" alt="Hexordia Badge" />
     </a>
+    <!-- IBM Cybersecurity Fundamentals -->
+    <a href="https://www.credly.com/earner/earned/badge/7440ac31-eeeb-4f42-a5a9-9e1678efed78" target="_blank">
+        <img src="https://img.shields.io/badge/-IBM%20Cybersecurity%20Fundamentals-FF007F?&style=for-the-badge&logo=ibm&logoColor=white" alt="IBM Cybersecurity Fundamentals Badge" />
+</a>
     <!-- Intro to IoT -->
     <a href="https://github.com/d4n392/Professional-Certificates/blob/main/Intro%20to%20IoT.pdf" target="_blank">
         <img src="https://img.shields.io/badge/-Intro%20to%20IoT-0096D6?&style=for-the-badge&logo=Iot&logoColor=white" alt="Intro to IoT Badge" />
@@ -153,6 +177,13 @@ My goal is to become a skilled cybersecurity professional, specializing in penet
     <a href="https://github.com/d4n392/Professional-Certificates/blob/main/Simplilearn%20CISM%20Course.pdf" target="_blank">
         <img src="https://img.shields.io/badge/-Simplilearn%20CISM%20Course-0096D6?&style=for-the-badge&logo=Leanpub&logoColor=white" alt="Simplilearn CISM Badge" />
     </a>
+
+<!-- XM Cyber Exposure Management Expert -->
+<a href="https://www.credly.com/badges/cf0b1fe6-67ed-41d7-bddb-d1a0dfae7c7f" target="_blank">
+        <img src="https://img.shields.io/badge/-Exposure%20Management%20Expert-00B88C?&style=for-the-badge&logo=xm&logoColor=white" alt="Exposure Management Expert" />
+</a>
+
+</a>
     <!-- Zendesk Training Cert -->
     <a href="https://github.com/d4n392/Professional-Certificates/blob/main/Zendesk%20Training%20Cert.pdf" target="_blank">
         <img src="https://img.shields.io/badge/-Zendesk%20Training-006D6D?&style=for-the-badge&logo=Zendesk&logoColor=white" alt="Zendesk Training Badge" />
