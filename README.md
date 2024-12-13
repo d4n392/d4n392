@@ -113,6 +113,10 @@ My goal is to become a skilled cybersecurity professional, specializing in penet
     <a href="https://github.com/d4n392/Professional-Certificates/blob/main/AIG%20Shields%20Up-%20Cybersecurity%20Job%20Simulation.pdf" target="_blank">
         <img src="https://img.shields.io/badge/-AIG%20Shields%20Up-000080?&style=for-the-badge&logo=Shield&logoColor=white" alt="AIG Shields Up Badge" />
     </a>
+    <!-- APIsec University API Authentication -->
+<a href="https://www.credly.com/earner/earned/badge/1221065a-ea47-4402-bbe0-644105e2d4ef" target="_blank">
+        <img src="https://img.shields.io/badge/-API%20Authentication-006F8E?&style=for-the-badge&logo=api&logoColor=white" alt="API Authentication Badge" />
+</a>
     <!-- arcX - Cyber Threat Intelligence 101 -->
     <a href="https://github.com/d4n392/Professional-Certificates/blob/main/arcX%20-%20Cyber%20Threat%20Intelligence%20101.pdf" target="_blank">
         <img src="https://img.shields.io/badge/-arcX%20CTI%20101-B22222?&style=for-the-badge&logo=ArchLinux&logoColor=white" alt="arcX CTI Badge" />
