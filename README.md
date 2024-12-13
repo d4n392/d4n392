@@ -133,6 +133,10 @@ My goal is to become a skilled cybersecurity professional, specializing in penet
     <a href="https://www.credly.com/earner/earned/badge/0ce5dc63-154b-4456-957b-2f23ea01d94e" target="_blank">
         <img src="https://img.shields.io/badge/-Computer%20Hardware%20Basics-1D4594?&style=for-the-badge&logo=cisco&logoColor=white" alt="Computer Hardware Basics Badge" />
 </a>
+    <!-- Certiprof Cybersecurity Awareness -->
+<a href="https://www.credly.com/earner/earned/badge/874ad5bd-bf58-42ac-b43b-b33d63827218" target="_blank">
+        <img src="https://img.shields.io/badge/-Cybersecurity%20Awareness-800000?&style=for-the-badge&logo=security&logoColor=white" alt="Cybersecurity Awareness Badge" />
+</a>
     <!-- Cisco OS Basics -->
     <a href="https://www.credly.com/earner/earned/badge/2dabbb02-2dd9-4f9d-ae6a-4fbfe1a9b5c4" target="_blank">
         <img src="https://img.shields.io/badge/-Operating%20Systems%20Basics-1D4594?&style=for-the-badge&logo=cisco&logoColor=white" alt="Operating Systems Basics Badge" />
@@ -165,6 +169,10 @@ My goal is to become a skilled cybersecurity professional, specializing in penet
     <a href="https://github.com/d4n392/Professional-Certificates/blob/main/Intro%20to%20IoT.pdf" target="_blank">
         <img src="https://img.shields.io/badge/-Intro%20to%20IoT-0096D6?&style=for-the-badge&logo=Iot&logoColor=white" alt="Intro to IoT Badge" />
     </a>
+    <!-- Certiprof Lifelong Learning -->
+    <a href="https://www.credly.com/earner/earned/badge/17049f6b-7a59-4808-92fb-a277e713663c" target="_blank">
+        <img src="https://img.shields.io/badge/-Lifelong%20Learning-1E90FF?&style=for-the-badge&logo=education&logoColor=white" alt="Lifelong Learning Badge" />
+</a>
     <!-- MITx Online Certificate for Cybersecurity for Critical Urban Infrastructure -->
     <a href="https://github.com/d4n392/Professional-Certificates/blob/main/MITx%20Online%20_%20Certificate%20for_%20Cybersecurity%20for%20Critical%20Urban%20Infrastructure.pdf" target="_blank">
         <img src="https://img.shields.io/badge/-MITx%20Critical%20Infrastructure-A31F34?&style=for-the-badge&logo=MIT&logoColor=white" alt="MITx Certificate" />
@@ -177,6 +185,10 @@ My goal is to become a skilled cybersecurity professional, specializing in penet
     <a href="https://github.com/d4n392/Professional-Certificates/blob/main/Qualys%20EDR.pdf" target="_blank">
         <img src="https://img.shields.io/badge/-Qualys%20EDR-E2001A?&style=for-the-badge&logo=Qualys&logoColor=white" alt="Qualys EDR Badge" />
     </a>
+    <!-- Certiprof Remote Work Professional Certification -->
+<a href="https://www.credly.com/earner/earned/badge/b455eb04-c5ce-4bfd-8979-20834d2881ba" target="_blank">
+        <img src="https://img.shields.io/badge/-Remote%20Work%20Professional-FFB6C1?&style=for-the-badge&logo=work&logoColor=white" alt="Remote Work Professional Badge" />
+</a>
     <!-- Simplilearn CISM Course -->
     <a href="https://github.com/d4n392/Professional-Certificates/blob/main/Simplilearn%20CISM%20Course.pdf" target="_blank">
         <img src="https://img.shields.io/badge/-Simplilearn%20CISM%20Course-0096D6?&style=for-the-badge&logo=Leanpub&logoColor=white" alt="Simplilearn CISM Badge" />
