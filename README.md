@@ -176,6 +176,10 @@ My goal is to become a skilled cybersecurity professional, specializing in penet
     <a href="https://www.credly.com/earner/earned/badge/17049f6b-7a59-4808-92fb-a277e713663c" target="_blank">
         <img src="https://img.shields.io/badge/-Lifelong%20Learning-1E90FF?&style=for-the-badge&logo=education&logoColor=white" alt="Lifelong Learning Badge" />
 </a>
+    <!-- TCM-SEcurity Linux 100: Fundamentals -->
+    <a href="https://github.com/d4n392/Professional-Certificates/blob/main/TCM-SEC%20Linux%20100.png" target="_blank">
+    <img src="https://img.shields.io/badge/-Linux%20100%3A%20Fundamentals-66023c?&style=for-the-badge&logo=TCM%20Security&logoColor=white" alt="TCM-Security Linux 100: Fundamentals Badge" />
+</a>
     <!-- MITx Online Certificate for Cybersecurity for Critical Urban Infrastructure -->
     <a href="https://github.com/d4n392/Professional-Certificates/blob/main/MITx%20Online%20_%20Certificate%20for_%20Cybersecurity%20for%20Critical%20Urban%20Infrastructure.pdf" target="_blank">
         <img src="https://img.shields.io/badge/-MITx%20Critical%20Infrastructure-A31F34?&style=for-the-badge&logo=MIT&logoColor=white" alt="MITx Certificate" />
