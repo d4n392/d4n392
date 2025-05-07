@@ -83,10 +83,10 @@ My goal is to become a skilled cybersecurity professional, specializing in penet
 ## Certifications
 <div>
 <a href="https://aspen.eccouncil.org/Badge?a=hkxP/Y3Fixvny+W/JqIbo5RK8L6hySQVVT03HMwCAoY=" target="_blank">
-    <img src="https://img.shields.io/badge/-Certified%20Ethical%20Hacker-B22222?&style=for-the-badge&logo=ec-council&logoColor=white" alt="CEH Badge" />
+    <img src="https://img.shields.io/badge/-Certified%20Ethical%20Hacker-8B0000?&style=for-the-badge&logo=ec-council&logoColor=white" alt="CEH Badge" />
 </a>  
 <a href="https://www.credly.com/earner/earned/badge/55217136-cfed-42f7-bb11-229679bb8b5d" target="_blank">
-    <img src="https://img.shields.io/badge/-Security%2B-E50000?&style=for-the-badge&logo=CompTIA&logoColor=white" alt="Security+ Badge" />
+    <img src="https://img.shields.io/badge/-Security%2B-EE3224?&style=for-the-badge&logo=CompTIA&logoColor=white" alt="Security+ Badge" />
 </a>
 <a href="https://www.credly.com/earner/earned/badge/65dbf142-f8a8-4a8d-b46f-cdaa624b38a5" target="_blank">
     <img src="https://img.shields.io/badge/-ISC2%20CC-00AC18?&style=for-the-badge&logo=ISC2&logoColor=white" alt="ISC2 CC Badge" />
@@ -106,7 +106,7 @@ My goal is to become a skilled cybersecurity professional, specializing in penet
 </a>
     <!-- Qualys VMDR - Certified Specialist -->
 <a href="https://github.com/d4n392/Professional-Certificates/blob/main/Qualys%20VMDR%20-%20Certified%20Specialist.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/-Qualys%20VMDR%20Specialist-E2001A?&style=for-the-badge&logo=Qualys&logoColor=white" alt="Qualys VMDR Badge" />
+    <img src="https://img.shields.io/badge/-Qualys%20VMDR%20Specialist-DE1D0B?&style=for-the-badge&logo=Qualys&logoColor=white" alt="Qualys VMDR Badge" />
 </a>
 </div>
 
