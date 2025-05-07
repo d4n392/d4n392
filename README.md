@@ -82,6 +82,9 @@ My goal is to become a skilled cybersecurity professional, specializing in penet
 
 ## Certifications
 <div>
+<a href="https://aspen.eccouncil.org/Badge?a=hkxP/Y3Fixvny+W/JqIbo5RK8L6hySQVVT03HMwCAoY=" target="_blank">
+    <img src="https://img.shields.io/badge/-Certified%20Ethical%20Hacker-B22222?&style=for-the-badge&logo=ec-council&logoColor=white" alt="CEH Badge" />
+</a>  
 <a href="https://www.credly.com/earner/earned/badge/55217136-cfed-42f7-bb11-229679bb8b5d" target="_blank">
     <img src="https://img.shields.io/badge/-Security%2B-E50000?&style=for-the-badge&logo=CompTIA&logoColor=white" alt="Security+ Badge" />
 </a>
